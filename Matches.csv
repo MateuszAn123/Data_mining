@@ -1,0 +1,798 @@
+Wk,Day,Date,Day Date,Month Date,Year Date,Time,Home,xG Home,Home_Score,Away_Score,xG Away,Away,Attendance,Venue,Referee,Season
+1,Fri,11 August 2023,11,8,2023,20:00,Burnley,0.30,0,3,1.90,Manchester City,21572.00,Turf Moor,Craig Pawson,2024
+1,Sat,12 August 2023,12,8,2023,12:30,Arsenal,0.80,2,1,1.20,Nott'ham Forest,59984.00,Emirates Stadium,Michael Oliver,2024
+1,Sat,12 August 2023,12,8,2023,15:00,Everton,2.70,0,1,1.50,Fulham,39940.00,Goodison Park,Stuart Attwell,2024
+1,Sat,12 August 2023,12,8,2023,15:00,Sheffield Utd,0.50,0,1,1.90,Crystal Palace,31194.00,Bramall Lane,John Brooks,2024
+1,Sat,12 August 2023,12,8,2023,15:00,Brighton,4.00,4,1,1.50,Luton Town,31872.00,The American Express Community Stadium,David Coote,2024
+1,Sat,12 August 2023,12,8,2023,15:00,Bournemouth,1.30,1,1,1.10,West Ham,11245.00,Vitality Stadium,Peter Bankes,2024
+1,Sat,12 August 2023,12,8,2023,17:30,Newcastle Utd,3.30,5,1,1.80,Aston Villa,52207.00,St James' Park,Andy Madley,2024
+1,Sun,13 August 2023,13,8,2023,14:00,Brentford,2.20,2,2,1.30,Tottenham,17066.00,Gtech Community Stadium,Robert Jones,2024
+1,Sun,13 August 2023,13,8,2023,16:30,Chelsea,1.40,1,1,1.30,Liverpool,40096.00,Stamford Bridge,Anthony Taylor,2024
+1,Mon,14 August 2023,14,8,2023,20:00,Manchester Utd,2.20,1,0,2.20,Wolves,73358.00,Old Trafford,Simon Hooper,2024
+2,Fri,18 August 2023,18,8,2023,19:45,Nott'ham Forest,1.40,2,1,0.50,Sheffield Utd,29432.00,The City Ground,Peter Bankes,2024
+2,Sat,19 August 2023,19,8,2023,15:00,Fulham,0.50,0,3,3.70,Brentford,24236.00,Craven Cottage,Darren Bond,2024
+2,Sat,19 August 2023,19,8,2023,15:00,Liverpool,3.00,3,1,1.30,Bournemouth,53145.00,Anfield,Thomas Bramall,2024
+2,Sat,19 August 2023,19,8,2023,15:00,Wolves,2.10,1,4,2.20,Brighton,31317.00,Molineux Stadium,Andy Madley,2024
+2,Sat,19 August 2023,19,8,2023,17:30,Tottenham,1.70,2,0,2.10,Manchester Utd,61910.00,Tottenham Hotspur Stadium,Michael Oliver,2024
+2,Sat,19 August 2023,19,8,2023,20:00,Manchester City,1.00,1,0,0.30,Newcastle Utd,53419.00,Etihad Stadium,Robert Jones,2024
+2,Sun,20 August 2023,20,8,2023,14:00,Aston Villa,2.90,4,0,0.60,Everton,41694.00,Villa Park,Anthony Taylor,2024
+2,Sun,20 August 2023,20,8,2023,16:30,West Ham,1.80,3,1,2.50,Chelsea,62451.00,London Stadium,John Brooks,2024
+2,Mon,21 August 2023,21,8,2023,20:00,Crystal Palace,1.00,0,1,2.00,Arsenal,24189.00,Selhurst Park,David Coote,2024
+3,Fri,25 August 2023,25,8,2023,20:00,Chelsea,2.20,3,0,0.40,Luton Town,39893.00,Stamford Bridge,Robert Jones,2024
+3,Sat,26 August 2023,26,8,2023,12:30,Bournemouth,0.70,0,2,2.10,Tottenham,10567.00,Vitality Stadium,Tim Robinson,2024
+3,Sat,26 August 2023,26,8,2023,15:00,Everton,1.30,0,1,1.10,Wolves,38851.00,Goodison Park,Craig Pawson,2024
+3,Sat,26 August 2023,26,8,2023,15:00,Brentford,1.00,1,1,0.80,Crystal Palace,16997.00,Gtech Community Stadium,Peter Bankes,2024
+3,Sat,26 August 2023,26,8,2023,15:00,Manchester Utd,2.80,3,2,1.20,Nott'ham Forest,73595.00,Old Trafford,Stuart Attwell,2024
+3,Sat,26 August 2023,26,8,2023,15:00,Arsenal,3.20,2,2,0.60,Fulham,59961.00,Emirates Stadium,Paul Tierney,2024
+3,Sat,26 August 2023,26,8,2023,17:30,Brighton,1.50,1,3,3.00,West Ham,31508.00,The American Express Community Stadium,Anthony Taylor,2024
+3,Sun,27 August 2023,27,8,2023,14:00,Sheffield Utd,0.70,1,2,3.50,Manchester City,31336.00,Bramall Lane,Jarred Gillett,2024
+3,Sun,27 August 2023,27,8,2023,14:00,Burnley,0.70,1,3,2.50,Aston Villa,21591.00,Turf Moor,Michael Salisbury,2024
+3,Sun,27 August 2023,27,8,2023,16:30,Newcastle Utd,2.00,1,2,0.90,Liverpool,52214.00,St James' Park,John Brooks,2024
+4,Fri,01 September 2023,1,9,2023,20:00,Luton Town,1.40,1,2,1.00,West Ham,10802.00,Kenilworth Road Stadium,Paul Tierney,2024
+4,Sat,02 September 2023,2,9,2023,12:30,Sheffield Utd,1.20,2,2,2.50,Everton,31124.00,Bramall Lane,Andy Madley,2024
+4,Sat,02 September 2023,2,9,2023,15:00,Chelsea,2.30,0,1,0.80,Nott'ham Forest,39820.00,Stamford Bridge,Tim Robinson,2024
+4,Sat,02 September 2023,2,9,2023,15:00,Manchester City,2.20,5,1,1.40,Fulham,52899.00,Etihad Stadium,Michael Oliver,2024
+4,Sat,02 September 2023,2,9,2023,15:00,Brentford,2.90,2,2,2.10,Bournemouth,16973.00,Gtech Community Stadium,Robert Madley,2024
+4,Sat,02 September 2023,2,9,2023,15:00,Burnley,1.30,2,5,2.20,Tottenham,21750.00,Turf Moor,Darren England,2024
+4,Sat,02 September 2023,2,9,2023,17:30,Brighton,1.30,3,1,1.20,Newcastle Utd,31620.00,The American Express Community Stadium,Stuart Attwell,2024
+4,Sun,03 September 2023,3,9,2023,14:00,Liverpool,2.50,3,0,0.70,Aston Villa,50109.00,Anfield,Simon Hooper,2024
+4,Sun,03 September 2023,3,9,2023,14:00,Crystal Palace,2.10,3,2,1.20,Wolves,24741.00,Selhurst Park,Robert Jones,2024
+4,Sun,03 September 2023,3,9,2023,16:30,Arsenal,2.30,3,1,0.90,Manchester Utd,60192.00,Emirates Stadium,Anthony Taylor,2024
+5,Sat,16 September 2023,16,9,2023,12:30,Wolves,0.60,1,3,2.50,Liverpool,31257.00,Molineux Stadium,Michael Oliver,2024
+5,Sat,16 September 2023,16,9,2023,15:00,Fulham,1.00,1,0,1.10,Luton Town,24467.00,Craven Cottage,Michael Salisbury,2024
+5,Sat,16 September 2023,16,9,2023,15:00,West Ham,0.90,1,3,3.60,Manchester City,62475.00,London Stadium,Andy Madley,2024
+5,Sat,16 September 2023,16,9,2023,15:00,Aston Villa,3.00,3,1,1.20,Crystal Palace,40809.00,Villa Park,Darren England,2024
+5,Sat,16 September 2023,16,9,2023,15:00,Manchester Utd,1.00,1,3,1.70,Brighton,73592.00,Old Trafford,Jarred Gillett,2024
+5,Sat,16 September 2023,16,9,2023,15:00,Tottenham,2.10,2,1,0.70,Sheffield Utd,61706.00,Tottenham Hotspur Stadium,Peter Bankes,2024
+5,Sat,16 September 2023,16,9,2023,17:30,Newcastle Utd,1.40,1,0,0.50,Brentford,51670.00,St James' Park,Craig Pawson,2024
+5,Sun,17 September 2023,17,9,2023,14:00,Bournemouth,1.00,0,0,1.80,Chelsea,10421.00,Vitality Stadium,David Coote,2024
+5,Sun,17 September 2023,17,9,2023,16:30,Everton,0.30,0,1,1.00,Arsenal,39217.00,Goodison Park,Simon Hooper,2024
+5,Mon,18 September 2023,18,9,2023,19:45,Nott'ham Forest,0.70,1,1,0.50,Burnley,28958.00,The City Ground,Robert Jones,2024
+6,Sat,23 September 2023,23,9,2023,15:00,Manchester City,1.30,2,0,1.00,Nott'ham Forest,53413.00,Etihad Stadium,Anthony Taylor,2024
+6,Sat,23 September 2023,23,9,2023,15:00,Luton Town,2.10,1,1,0.60,Wolves,10893.00,Kenilworth Road Stadium,Joshua Smith,2024
+6,Sat,23 September 2023,23,9,2023,15:00,Crystal Palace,0.30,0,0,0.60,Fulham,25072.00,Selhurst Park,Paul Tierney,2024
+6,Sat,23 September 2023,23,9,2023,17:30,Brentford,1.00,1,3,1.90,Everton,16981.00,Gtech Community Stadium,Michael Oliver,2024
+6,Sat,23 September 2023,23,9,2023,20:00,Burnley,1.10,0,1,1.00,Manchester Utd,21593.00,Turf Moor,Tony Harrington,2024
+6,Sun,24 September 2023,24,9,2023,14:00,Arsenal,1.80,2,2,1.40,Tottenham,60156.00,Emirates Stadium,Robert Jones,2024
+6,Sun,24 September 2023,24,9,2023,14:00,Brighton,1.90,3,1,1.10,Bournemouth,31617.00,The American Express Community Stadium,John Brooks,2024
+6,Sun,24 September 2023,24,9,2023,14:00,Chelsea,1.30,0,1,1.00,Aston Villa,39700.00,Stamford Bridge,Jarred Gillett,2024
+6,Sun,24 September 2023,24,9,2023,14:00,Liverpool,3.00,3,1,1.10,West Ham,50136.00,Anfield,Chris Kavanagh,2024
+6,Sun,24 September 2023,24,9,2023,16:30,Sheffield Utd,0.90,0,8,3.90,Newcastle Utd,31127.00,Bramall Lane,Stuart Attwell,2024
+7,Sat,30 September 2023,30,9,2023,12:30,Aston Villa,1.60,6,1,1.70,Brighton,40636.00,Villa Park,Andy Madley,2024
+7,Sat,30 September 2023,30,9,2023,15:00,Wolves,0.40,2,1,0.90,Manchester City,31415.00,Molineux Stadium,Craig Pawson,2024
+7,Sat,30 September 2023,30,9,2023,15:00,Bournemouth,0.60,0,4,3.40,Arsenal,11193.00,Vitality Stadium,Michael Salisbury,2024
+7,Sat,30 September 2023,30,9,2023,15:00,Everton,2.90,1,2,0.90,Luton Town,39289.00,Goodison Park,Anthony Taylor,2024
+7,Sat,30 September 2023,30,9,2023,15:00,Newcastle Utd,3.10,2,0,0.60,Burnley,51687.00,St James' Park,Thomas Bramall,2024
+7,Sat,30 September 2023,30,9,2023,15:00,West Ham,2.10,2,0,1.10,Sheffield Utd,62459.00,London Stadium,Graham Scott,2024
+7,Sat,30 September 2023,30,9,2023,15:00,Manchester Utd,1.30,0,1,0.90,Crystal Palace,73428.00,Old Trafford,Chris Kavanagh,2024
+7,Sat,30 September 2023,30,9,2023,17:30,Tottenham,2.20,2,1,1.30,Liverpool,62001.00,Tottenham Hotspur Stadium,Simon Hooper,2024
+7,Sun,01 October 2023,1,10,2023,14:00,Nott'ham Forest,0.50,1,1,1.60,Brentford,29004.00,The City Ground,Paul Tierney,2024
+7,Mon,02 October 2023,2,10,2023,20:00,Fulham,1.10,0,2,1.70,Chelsea,24445.00,Craven Cottage,Tim Robinson,2024
+2,Tue,03 October 2023,3,10,2023,19:30,Luton Town,1.30,1,2,1.10,Burnley,10918.00,Kenilworth Road Stadium,Peter Bankes,2024
+8,Sat,07 October 2023,7,10,2023,12:30,Luton Town,0.80,0,1,1.90,Tottenham,10290.00,Kenilworth Road Stadium,John Brooks,2024
+8,Sat,07 October 2023,7,10,2023,15:00,Everton,2.40,3,0,0.70,Bournemouth,38815.00,Goodison Park,David Coote,2024
+8,Sat,07 October 2023,7,10,2023,15:00,Manchester Utd,1.40,2,1,0.90,Brentford,73453.00,Old Trafford,Andy Madley,2024
+8,Sat,07 October 2023,7,10,2023,15:00,Burnley,0.70,1,4,1.90,Chelsea,21654.00,Turf Moor,Stuart Attwell,2024
+8,Sat,07 October 2023,7,10,2023,15:00,Fulham,2.20,3,1,0.60,Sheffield Utd,24361.00,Craven Cottage,Samuel Barrott,2024
+8,Sat,07 October 2023,7,10,2023,17:30,Crystal Palace,0.80,0,0,1.00,Nott'ham Forest,25017.00,Selhurst Park,Craig Pawson,2024
+8,Sun,08 October 2023,8,10,2023,14:00,West Ham,1.20,2,2,2.00,Newcastle Utd,62473.00,London Stadium,Peter Bankes,2024
+8,Sun,08 October 2023,8,10,2023,14:00,Wolves,1.70,1,1,1.60,Aston Villa,31425.00,Molineux Stadium,Robert Jones,2024
+8,Sun,08 October 2023,8,10,2023,14:00,Brighton,2.30,2,2,2.30,Liverpool,31752.00,The American Express Community Stadium,Anthony Taylor,2024
+8,Sun,08 October 2023,8,10,2023,16:30,Arsenal,0.40,1,0,0.50,Manchester City,60233.00,Emirates Stadium,Michael Oliver,2024
+9,Sat,21 October 2023,21,10,2023,12:30,Liverpool,2.20,2,0,0.10,Everton,50201.00,Anfield,Craig Pawson,2024
+9,Sat,21 October 2023,21,10,2023,15:00,Bournemouth,0.60,1,2,2.40,Wolves,11175.00,Vitality Stadium,Paul Tierney,2024
+9,Sat,21 October 2023,21,10,2023,15:00,Newcastle Utd,2.40,4,0,1.20,Crystal Palace,52189.00,St James' Park,Tim Robinson,2024
+9,Sat,21 October 2023,21,10,2023,15:00,Brentford,3.10,3,0,1.10,Burnley,17029.00,Gtech Community Stadium,Joshua Smith,2024
+9,Sat,21 October 2023,21,10,2023,15:00,Manchester City,0.80,2,1,0.80,Brighton,53466.00,Etihad Stadium,Robert Jones,2024
+9,Sat,21 October 2023,21,10,2023,15:00,Nott'ham Forest,2.90,2,2,1.70,Luton Town,29361.00,The City Ground,Samuel Barrott,2024
+9,Sat,21 October 2023,21,10,2023,17:30,Chelsea,1.30,2,2,1.00,Arsenal,39723.00,Stamford Bridge,Chris Kavanagh,2024
+9,Sat,21 October 2023,21,10,2023,20:00,Sheffield Utd,1.40,1,2,1.10,Manchester Utd,31543.00,Bramall Lane,Michael Oliver,2024
+9,Sun,22 October 2023,22,10,2023,16:30,Aston Villa,1.90,4,1,1.10,West Ham,41734.00,Villa Park,David Coote,2024
+9,Mon,23 October 2023,23,10,2023,20:00,Tottenham,1.50,2,0,1.00,Fulham,61286.00,Tottenham Hotspur Stadium,Anthony Taylor,2024
+10,Fri,27 October 2023,27,10,2023,20:00,Crystal Palace,0.60,1,2,1.10,Tottenham,25074.00,Selhurst Park,Andy Madley,2024
+10,Sat,28 October 2023,28,10,2023,12:30,Chelsea,1.90,0,2,2.20,Brentford,39575.00,Stamford Bridge,Simon Hooper,2024
+10,Sat,28 October 2023,28,10,2023,15:00,Bournemouth,1.10,2,1,0.80,Burnley,11152.00,Vitality Stadium,Samuel Barrott,2024
+10,Sat,28 October 2023,28,10,2023,15:00,Arsenal,2.80,5,0,0.00,Sheffield Utd,60153.00,Emirates Stadium,Tim Robinson,2024
+10,Sat,28 October 2023,28,10,2023,17:30,Wolves,0.90,2,2,2.20,Newcastle Utd,31584.00,Molineux Stadium,Anthony Taylor,2024
+10,Sun,29 October 2023,29,10,2023,13:00,West Ham,0.70,0,1,0.80,Everton,62469.00,London Stadium,Stuart Attwell,2024
+10,Sun,29 October 2023,29,10,2023,14:00,Liverpool,3.20,3,0,0.40,Nott'ham Forest,50143.00,Anfield,Chris Kavanagh,2024
+10,Sun,29 October 2023,29,10,2023,14:00,Brighton,1.40,1,1,0.70,Fulham,31550.00,The American Express Community Stadium,Michael Salisbury,2024
+10,Sun,29 October 2023,29,10,2023,14:00,Aston Villa,2.30,3,1,0.50,Luton Town,41785.00,Villa Park,John Brooks,2024
+10,Sun,29 October 2023,29,10,2023,15:30,Manchester Utd,0.90,0,3,4.00,Manchester City,73502.00,Old Trafford,Paul Tierney,2024
+11,Sat,04 November 2023,4,11,2023,12:30,Fulham,1.00,0,1,0.70,Manchester Utd,24415.00,Craven Cottage,John Brooks,2024
+11,Sat,04 November 2023,4,11,2023,15:00,Brentford,1.50,3,2,1.80,West Ham,17103.00,Gtech Community Stadium,Thomas Bramall,2024
+11,Sat,04 November 2023,4,11,2023,15:00,Everton,0.70,1,1,0.50,Brighton,38683.00,Goodison Park,Tim Robinson,2024
+11,Sat,04 November 2023,4,11,2023,15:00,Burnley,1.10,0,2,1.30,Crystal Palace,21578.00,Turf Moor,Peter Bankes,2024
+11,Sat,04 November 2023,4,11,2023,15:00,Manchester City,1.90,6,1,0.90,Bournemouth,53358.00,Etihad Stadium,Craig Pawson,2024
+11,Sat,04 November 2023,4,11,2023,15:00,Sheffield Utd,1.00,2,1,1.20,Wolves,29454.00,Bramall Lane,Robert Jones,2024
+11,Sat,04 November 2023,4,11,2023,17:30,Newcastle Utd,1.00,1,0,0.60,Arsenal,52194.00,St James' Park,Stuart Attwell,2024
+11,Sun,05 November 2023,5,11,2023,14:00,Nott'ham Forest,0.40,2,0,1.20,Aston Villa,29313.00,The City Ground,Jarred Gillett,2024
+11,Sun,05 November 2023,5,11,2023,16:30,Luton Town,0.80,1,1,2.60,Liverpool,11049.00,Kenilworth Road Stadium,Andy Madley,2024
+11,Mon,06 November 2023,6,11,2023,20:00,Tottenham,0.90,1,4,4.10,Chelsea,61726.00,Tottenham Hotspur Stadium,Michael Oliver,2024
+12,Sat,11 November 2023,11,11,2023,12:30,Wolves,2.10,2,1,0.70,Tottenham,31642.00,Molineux Stadium,Tim Robinson,2024
+12,Sat,11 November 2023,11,11,2023,15:00,Arsenal,1.80,3,1,0.30,Burnley,60232.00,Emirates Stadium,Michael Oliver,2024
+12,Sat,11 November 2023,11,11,2023,15:00,Manchester Utd,2.20,1,0,0.40,Luton Town,73599.00,Old Trafford,Graham Scott,2024
+12,Sat,11 November 2023,11,11,2023,15:00,Crystal Palace,2.20,2,3,1.50,Everton,25103.00,Selhurst Park,Samuel Barrott,2024
+12,Sat,11 November 2023,11,11,2023,17:30,Bournemouth,2.40,2,0,0.50,Newcastle Utd,11201.00,Vitality Stadium,Chris Kavanagh,2024
+12,Sun,12 November 2023,12,11,2023,14:00,West Ham,1.80,3,2,1.70,Nott'ham Forest,62470.00,London Stadium,Michael Salisbury,2024
+12,Sun,12 November 2023,12,11,2023,14:00,Liverpool,1.70,3,0,1.60,Brentford,50151.00,Anfield,Paul Tierney,2024
+12,Sun,12 November 2023,12,11,2023,14:00,Aston Villa,3.00,3,1,0.90,Fulham,41608.00,Villa Park,Simon Hooper,2024
+12,Sun,12 November 2023,12,11,2023,14:00,Brighton,1.50,1,1,1.10,Sheffield Utd,31367.00,The American Express Community Stadium,John Brooks,2024
+12,Sun,12 November 2023,12,11,2023,16:30,Chelsea,2.90,4,4,2.90,Manchester City,39532.00,Stamford Bridge,Anthony Taylor,2024
+13,Sat,25 November 2023,25,11,2023,12:30,Manchester City,1.30,1,1,0.60,Liverpool,53289.00,Etihad Stadium,Chris Kavanagh,2024
+13,Sat,25 November 2023,25,11,2023,15:00,Burnley,1.30,1,2,0.90,West Ham,21319.00,Turf Moor,Samuel Barrott,2024
+13,Sat,25 November 2023,25,11,2023,15:00,Nott'ham Forest,1.90,2,3,1.30,Brighton,29404.00,The City Ground,Anthony Taylor,2024
+13,Sat,25 November 2023,25,11,2023,15:00,Sheffield Utd,0.80,1,3,2.90,Bournemouth,30208.00,Bramall Lane,Andy Madley,2024
+13,Sat,25 November 2023,25,11,2023,15:00,Newcastle Utd,2.40,4,1,0.50,Chelsea,52227.00,St James' Park,Simon Hooper,2024
+13,Sat,25 November 2023,25,11,2023,15:00,Luton Town,0.90,2,1,1.60,Crystal Palace,11029.00,Kenilworth Road Stadium,Jarred Gillett,2024
+13,Sat,25 November 2023,25,11,2023,17:30,Brentford,1.10,0,1,1.60,Arsenal,17201.00,Gtech Community Stadium,Tim Robinson,2024
+13,Sun,26 November 2023,26,11,2023,14:00,Tottenham,2.30,1,2,1.70,Aston Villa,61679.00,Tottenham Hotspur Stadium,Robert Jones,2024
+13,Sun,26 November 2023,26,11,2023,16:30,Everton,2.40,0,3,2.20,Manchester Utd,39257.00,Goodison Park,John Brooks,2024
+13,Mon,27 November 2023,27,11,2023,20:00,Fulham,2.90,3,2,1.40,Wolves,24366.00,Craven Cottage,Michael Salisbury,2024
+14,Sat,02 December 2023,2,12,2023,15:00,Brentford,3.10,3,1,0.20,Luton Town,17075.00,Gtech Community Stadium,Anthony Taylor,2024
+14,Sat,02 December 2023,2,12,2023,15:00,Arsenal,2.80,2,1,0.70,Wolves,60262.00,Emirates Stadium,Peter Bankes,2024
+14,Sat,02 December 2023,2,12,2023,15:00,Burnley,1.80,5,0,0.40,Sheffield Utd,21478.00,Turf Moor,Chris Kavanagh,2024
+14,Sat,02 December 2023,2,12,2023,17:30,Nott'ham Forest,0.70,0,1,0.70,Everton,29404.00,The City Ground,Paul Tierney,2024
+14,Sat,02 December 2023,2,12,2023,20:00,Newcastle Utd,2.40,1,0,0.50,Manchester Utd,52214.00,St James' Park,Robert Jones,2024
+14,Sun,03 December 2023,3,12,2023,14:00,Bournemouth,2.00,2,2,0.70,Aston Villa,11191.00,Vitality Stadium,Thomas Bramall,2024
+14,Sun,03 December 2023,3,12,2023,14:00,Liverpool,2.10,4,3,1.20,Fulham,50124.00,Anfield,Stuart Attwell,2024
+14,Sun,03 December 2023,3,12,2023,14:00,Chelsea,2.10,3,2,1.10,Brighton,39647.00,Stamford Bridge,Craig Pawson,2024
+14,Sun,03 December 2023,3,12,2023,14:00,West Ham,1.10,1,1,0.90,Crystal Palace,62414.00,London Stadium,Michael Oliver,2024
+14,Sun,03 December 2023,3,12,2023,16:30,Manchester City,2.60,3,3,0.50,Tottenham,53473.00,Etihad Stadium,Simon Hooper,2024
+15,Tue,05 December 2023,5,12,2023,19:30,Wolves,0.80,1,0,0.90,Burnley,30439.00,Molineux Stadium,Jarred Gillett,2024
+15,Tue,05 December 2023,5,12,2023,20:15,Luton Town,0.50,3,4,2.20,Arsenal,11031.00,Kenilworth Road Stadium,Samuel Barrott,2024
+15,Wed,06 December 2023,6,12,2023,19:30,Sheffield Utd,1.00,0,2,1.70,Liverpool,31406.00,Bramall Lane,Simon Hooper,2024
+15,Wed,06 December 2023,6,12,2023,19:30,Crystal Palace,1.00,0,2,1.80,Bournemouth,25078.00,Selhurst Park,Craig Pawson,2024
+15,Wed,06 December 2023,6,12,2023,19:30,Brighton,1.50,2,1,1.50,Brentford,31571.00,The American Express Community Stadium,Peter Bankes,2024
+15,Wed,06 December 2023,6,12,2023,19:30,Fulham,2.50,5,0,0.30,Nott'ham Forest,24105.00,Craven Cottage,Joshua Smith,2024
+15,Wed,06 December 2023,6,12,2023,20:15,Aston Villa,2.30,1,0,0.60,Manchester City,41421.00,Villa Park,John Brooks,2024
+15,Wed,06 December 2023,6,12,2023,20:15,Manchester Utd,4.10,2,1,1.50,Chelsea,73607.00,Old Trafford,Chris Kavanagh,2024
+15,Thu,07 December 2023,7,12,2023,19:30,Everton,3.30,3,0,1.50,Newcastle Utd,38198.00,Goodison Park,Tim Robinson,2024
+15,Thu,07 December 2023,7,12,2023,20:15,Tottenham,1.80,1,2,2.20,West Ham,61171.00,Tottenham Hotspur Stadium,Michael Salisbury,2024
+16,Sat,09 December 2023,9,12,2023,12:30,Crystal Palace,1.70,1,2,1.20,Liverpool,25103.00,Selhurst Park,Andy Madley,2024
+16,Sat,09 December 2023,9,12,2023,15:00,Manchester Utd,1.10,0,3,1.50,Bournemouth,73427.00,Old Trafford,Peter Bankes,2024
+16,Sat,09 December 2023,9,12,2023,15:00,Wolves,1.20,1,1,1.30,Nott'ham Forest,31543.00,Molineux Stadium,Samuel Barrott,2024
+16,Sat,09 December 2023,9,12,2023,15:00,Brighton,2.60,1,1,0.60,Burnley,31511.00,The American Express Community Stadium,Simon Hooper,2024
+16,Sat,09 December 2023,9,12,2023,15:00,Sheffield Utd,0.80,1,0,0.60,Brentford,28509.00,Bramall Lane,Stuart Attwell,2024
+16,Sat,09 December 2023,9,12,2023,17:30,Aston Villa,0.60,1,0,1.40,Arsenal,42000.00,Villa Park,Jarred Gillett,2024
+16,Sun,10 December 2023,10,12,2023,14:00,Everton,1.20,2,0,0.90,Chelsea,39280.00,Goodison Park,Michael Oliver,2024
+16,Sun,10 December 2023,10,12,2023,14:00,Fulham,2.30,5,0,1.30,West Ham,23988.00,Craven Cottage,Paul Tierney,2024
+16,Sun,10 December 2023,10,12,2023,14:00,Luton Town,0.30,1,2,1.60,Manchester City,11047.00,Kenilworth Road Stadium,Tim Robinson,2024
+16,Sun,10 December 2023,10,12,2023,16:30,Tottenham,3.80,4,1,1.70,Newcastle Utd,61171.00,Tottenham Hotspur Stadium,Chris Kavanagh,2024
+17,Fri,15 December 2023,15,12,2023,20:00,Nott'ham Forest,1.30,0,2,1.50,Tottenham,29296.00,The City Ground,Jarred Gillett,2024
+17,Sat,16 December 2023,16,12,2023,15:00,Manchester City,1.60,2,2,1.80,Crystal Palace,53248.00,Etihad Stadium,Paul Tierney,2024
+17,Sat,16 December 2023,16,12,2023,15:00,Chelsea,3.10,2,0,0.40,Sheffield Utd,39599.00,Stamford Bridge,Andy Madley,2024
+17,Sat,16 December 2023,16,12,2023,15:00,Newcastle Utd,3.50,3,0,0.30,Fulham,52055.00,St James' Park,Samuel Barrott,2024
+17,Sat,16 December 2023,16,12,2023,17:30,Burnley,0.70,0,2,1.40,Everton,21413.00,Turf Moor,Anthony Taylor,2024
+17,Sun,17 December 2023,17,12,2023,14:00,Brentford,0.50,1,2,1.40,Aston Villa,17034.00,Gtech Community Stadium,David Coote,2024
+17,Sun,17 December 2023,17,12,2023,14:00,West Ham,1.10,3,0,0.70,Wolves,62455.00,London Stadium,Chris Kavanagh,2024
+17,Sun,17 December 2023,17,12,2023,14:00,Arsenal,2.30,2,0,0.70,Brighton,60257.00,Emirates Stadium,Tim Robinson,2024
+17,Sun,17 December 2023,17,12,2023,16:30,Liverpool,2.30,0,0,0.80,Manchester Utd,57158.00,Anfield,Michael Oliver,2024
+18,Thu,21 December 2023,21,12,2023,20:00,Crystal Palace,1.30,1,1,1.20,Brighton,24171.00,Selhurst Park,John Brooks,2024
+18,Fri,22 December 2023,22,12,2023,20:00,Aston Villa,0.90,1,1,0.60,Sheffield Utd,41651.00,Villa Park,Anthony Taylor,2024
+18,Sat,23 December 2023,23,12,2023,12:30,West Ham,1.20,2,0,1.00,Manchester Utd,64472.00,London Stadium,Simon Hooper,2024
+18,Sat,23 December 2023,23,12,2023,15:00,Luton Town,1.40,1,0,1.40,Newcastle Utd,11042.00,Kenilworth Road Stadium,Darren England,2024
+18,Sat,23 December 2023,23,12,2023,15:00,Fulham,1.30,0,2,0.40,Burnley,23598.00,Craven Cottage,Rebecca Welch,2024
+18,Sat,23 December 2023,23,12,2023,15:00,Tottenham,1.50,2,1,1.80,Everton,61808.00,Tottenham Hotspur Stadium,Stuart Attwell,2024
+18,Sat,23 December 2023,23,12,2023,15:00,Nott'ham Forest,1.00,2,3,1.60,Bournemouth,29188.00,The City Ground,Robert Jones,2024
+18,Sat,23 December 2023,23,12,2023,17:30,Liverpool,1.00,1,1,0.70,Arsenal,57548.00,Anfield,Chris Kavanagh,2024
+18,Sun,24 December 2023,24,12,2023,13:00,Wolves,1.30,2,1,2.00,Chelsea,31641.00,Molineux Stadium,David Coote,2024
+19,Tue,26 December 2023,26,12,2023,12:30,Newcastle Utd,2.40,1,3,3.50,Nott'ham Forest,52207.00,St James' Park,Chris Kavanagh,2024
+19,Tue,26 December 2023,26,12,2023,15:00,Bournemouth,1.80,3,0,0.30,Fulham,11099.00,Vitality Stadium,Tim Robinson,2024
+19,Tue,26 December 2023,26,12,2023,15:00,Sheffield Utd,2.40,2,3,0.60,Luton Town,31041.00,Bramall Lane,Samuel Allison,2024
+19,Tue,26 December 2023,26,12,2023,17:30,Burnley,0.80,0,2,1.80,Liverpool,21624.00,Turf Moor,Paul Tierney,2024
+19,Tue,26 December 2023,26,12,2023,20:00,Manchester Utd,1.10,3,2,1.70,Aston Villa,73574.00,Old Trafford,Craig Pawson,2024
+19,Wed,27 December 2023,27,12,2023,19:30,Chelsea,2.60,2,1,1.10,Crystal Palace,39618.00,Stamford Bridge,Michael Salisbury,2024
+19,Wed,27 December 2023,27,12,2023,19:30,Brentford,2.20,1,4,2.40,Wolves,17109.00,Gtech Community Stadium,Andy Madley,2024
+19,Wed,27 December 2023,27,12,2023,20:15,Everton,1.00,1,3,2.40,Manchester City,39327.00,Goodison Park,John Brooks,2024
+19,Thu,28 December 2023,28,12,2023,19:30,Brighton,3.20,4,2,2.30,Tottenham,31675.00,The American Express Community Stadium,Jarred Gillett,2024
+19,Thu,28 December 2023,28,12,2023,20:15,Arsenal,2.70,0,2,1.40,West Ham,60261.00,Emirates Stadium,Michael Oliver,2024
+20,Sat,30 December 2023,30,12,2023,12:30,Luton Town,2.30,2,3,1.50,Chelsea,11041.00,Kenilworth Road Stadium,Paul Tierney,2024
+20,Sat,30 December 2023,30,12,2023,15:00,Aston Villa,3.20,3,2,1.20,Burnley,41613.00,Villa Park,Stuart Attwell,2024
+20,Sat,30 December 2023,30,12,2023,15:00,Wolves,1.90,3,0,0.40,Everton,31639.00,Molineux Stadium,Thomas Bramall,2024
+20,Sat,30 December 2023,30,12,2023,15:00,Manchester City,2.20,2,0,0.30,Sheffield Utd,53108.00,Etihad Stadium,David Coote,2024
+20,Sat,30 December 2023,30,12,2023,15:00,Crystal Palace,1.00,3,1,1.40,Brentford,25472.00,Selhurst Park,Robert Jones,2024
+20,Sat,30 December 2023,30,12,2023,17:30,Nott'ham Forest,0.70,2,1,0.80,Manchester Utd,29529.00,The City Ground,Tim Robinson,2024
+20,Sun,31 December 2023,31,12,2023,14:00,Tottenham,2.30,3,1,1.70,Bournemouth,61780.00,Tottenham Hotspur Stadium,Simon Hooper,2024
+20,Sun,31 December 2023,31,12,2023,14:00,Fulham,1.20,2,1,1.60,Arsenal,24444.00,Craven Cottage,Joshua Smith,2024
+20,Mon,01 January 2024,1,1,2024,20:00,Liverpool,7.00,4,2,0.60,Newcastle Utd,57471.00,Anfield,Anthony Taylor,2024
+20,Tue,02 January 2024,2,1,2024,19:30,West Ham,0.70,0,0,2.30,Brighton,62462.00,London Stadium,Samuel Barrott,2024
+21,Fri,12 January 2024,12,1,2024,19:45,Burnley,1.10,1,1,0.90,Luton Town,20155.00,Turf Moor,Tony Harrington,2024
+21,Sat,13 January 2024,13,1,2024,12:30,Chelsea,2.20,1,0,0.80,Fulham,39643.00,Stamford Bridge,Anthony Taylor,2024
+21,Sat,13 January 2024,13,1,2024,17:30,Newcastle Utd,1.30,2,3,3.00,Manchester City,52190.00,St James' Park,Chris Kavanagh,2024
+21,Sun,14 January 2024,14,1,2024,14:00,Everton,1.10,0,0,1.20,Aston Villa,39284.00,Goodison Park,David Coote,2024
+21,Sun,14 January 2024,14,1,2024,16:30,Manchester Utd,0.80,2,2,1.20,Tottenham,73489.00,Old Trafford,John Brooks,2024
+21,Sat,20 January 2024,20,1,2024,12:30,Arsenal,3.30,5,0,0.30,Crystal Palace,60284.00,Emirates Stadium,Paul Tierney,2024
+21,Sat,20 January 2024,20,1,2024,17:30,Brentford,1.20,3,2,1.20,Nott'ham Forest,17077.00,Gtech Community Stadium,Darren England,2024
+21,Sun,21 January 2024,21,1,2024,14:00,Sheffield Utd,2.50,2,2,2.30,West Ham,29164.00,Bramall Lane,Michael Salisbury,2024
+21,Sun,21 January 2024,21,1,2024,16:30,Bournemouth,1.40,0,4,1.50,Liverpool,11228.00,Vitality Stadium,Andy Madley,2024
+21,Mon,22 January 2024,22,1,2024,19:45,Brighton,1.00,0,0,1.10,Wolves,41505.00,The American Express Community Stadium,Craig Pawson,2024
+22,Tue,30 January 2024,30,1,2024,19:30,Nott'ham Forest,0.50,1,2,1.20,Arsenal,29387.00,The City Ground,Simon Hooper,2024
+22,Tue,30 January 2024,30,1,2024,19:45,Fulham,1.60,0,0,1.90,Everton,24376.00,Craven Cottage,Thomas Bramall,2024
+22,Tue,30 January 2024,30,1,2024,19:45,Luton Town,3.10,4,0,0.90,Brighton,10994.00,Kenilworth Road Stadium,Robert Jones,2024
+22,Tue,30 January 2024,30,1,2024,20:00,Crystal Palace,1.10,3,2,0.80,Sheffield Utd,24781.00,Selhurst Park,Tony Harrington,2024
+22,Tue,30 January 2024,30,1,2024,20:15,Aston Villa,1.40,1,3,2.60,Newcastle Utd,42191.00,Villa Park,John Brooks,2024
+22,Wed,31 January 2024,31,1,2024,19:30,Tottenham,2.90,3,2,1.60,Brentford,61210.00,Tottenham Hotspur Stadium,David Coote,2024
+22,Wed,31 January 2024,31,1,2024,19:30,Manchester City,1.70,3,1,1.40,Burnley,52143.00,Etihad Stadium,Samuel Barrott,2024
+22,Wed,31 January 2024,31,1,2024,20:15,Liverpool,2.90,4,1,0.60,Chelsea,57524.00,Anfield,Paul Tierney,2024
+22,Thu,01 February 2024,1,2,2024,19:30,West Ham,1.40,1,1,1.20,Bournemouth,62478.00,London Stadium,Tim Robinson,2024
+22,Thu,01 February 2024,1,2,2024,20:15,Wolves,2.10,3,4,3.30,Manchester Utd,31641.00,Molineux Stadium,Jarred Gillett,2024
+23,Sat,03 February 2024,3,2,2024,12:30,Everton,2.60,2,2,1.00,Tottenham,39321.00,Goodison Park,Michael Oliver,2024
+23,Sat,03 February 2024,3,2,2024,15:00,Newcastle Utd,2.30,4,4,2.40,Luton Town,52211.00,St James' Park,Thomas Bramall,2024
+23,Sat,03 February 2024,3,2,2024,15:00,Brighton,1.40,4,1,0.30,Crystal Palace,31345.00,The American Express Community Stadium,Simon Hooper,2024
+23,Sat,03 February 2024,3,2,2024,15:00,Burnley,1.80,2,2,1.50,Fulham,20203.00,Turf Moor,Darren Bond,2024
+23,Sat,03 February 2024,3,2,2024,17:30,Sheffield Utd,1.40,0,5,2.20,Aston Villa,30187.00,Bramall Lane,Paul Tierney,2024
+23,Sun,04 February 2024,4,2,2024,14:00,Bournemouth,1.30,1,1,0.50,Nott'ham Forest,11200.00,Vitality Stadium,Rebecca Welch,2024
+23,Sun,04 February 2024,4,2,2024,14:00,Manchester Utd,0.70,3,0,1.40,West Ham,73612.00,Old Trafford,Andy Madley,2024
+23,Sun,04 February 2024,4,2,2024,14:00,Chelsea,1.70,2,4,2.00,Wolves,39628.00,Stamford Bridge,Tim Robinson,2024
+23,Sun,04 February 2024,4,2,2024,16:30,Arsenal,3.50,3,1,0.40,Liverpool,60374.00,Emirates Stadium,Anthony Taylor,2024
+23,Mon,05 February 2024,5,2,2024,20:00,Brentford,1.00,1,3,2.10,Manchester City,17096.00,Gtech Community Stadium,Jarred Gillett,2024
+24,Sat,10 February 2024,10,2,2024,12:30,Manchester City,1.60,2,0,0.30,Everton,52187.00,Etihad Stadium,John Brooks,2024
+24,Sat,10 February 2024,10,2,2024,15:00,Luton Town,1.80,1,3,1.70,Sheffield Utd,11138.00,Kenilworth Road Stadium,Chris Kavanagh,2024
+24,Sat,10 February 2024,10,2,2024,15:00,Liverpool,2.80,3,1,1.30,Burnley,59896.00,Anfield,Tim Robinson,2024
+24,Sat,10 February 2024,10,2,2024,15:00,Wolves,1.00,0,2,1.90,Brentford,30731.00,Molineux Stadium,Simon Hooper,2024
+24,Sat,10 February 2024,10,2,2024,15:00,Fulham,1.60,3,1,1.80,Bournemouth,24271.00,Craven Cottage,Darren England,2024
+24,Sat,10 February 2024,10,2,2024,15:00,Tottenham,1.60,2,1,1.20,Brighton,61445.00,Tottenham Hotspur Stadium,Samuel Barrott,2024
+24,Sat,10 February 2024,10,2,2024,17:30,Nott'ham Forest,1.50,2,3,0.50,Newcastle Utd,29451.00,The City Ground,Anthony Taylor,2024
+24,Sun,11 February 2024,11,2,2024,14:00,West Ham,0.20,0,6,3.60,Arsenal,62475.00,London Stadium,Craig Pawson,2024
+24,Sun,11 February 2024,11,2,2024,16:30,Aston Villa,2.40,1,2,1.80,Manchester Utd,42185.00,Villa Park,Robert Jones,2024
+24,Mon,12 February 2024,12,2,2024,20:00,Crystal Palace,0.60,1,3,1.40,Chelsea,25110.00,Selhurst Park,Michael Oliver,2024
+25,Sat,17 February 2024,17,2,2024,12:30,Brentford,1.60,1,4,2.80,Liverpool,17193.00,Gtech Community Stadium,Michael Oliver,2024
+25,Sat,17 February 2024,17,2,2024,15:00,Newcastle Utd,2.20,2,2,2.20,Bournemouth,52224.00,St James' Park,Michael Salisbury,2024
+25,Sat,17 February 2024,17,2,2024,15:00,Tottenham,1.60,1,2,1.80,Wolves,61532.00,Tottenham Hotspur Stadium,Anthony Taylor,2024
+25,Sat,17 February 2024,17,2,2024,15:00,Burnley,0.30,0,5,2.30,Arsenal,21311.00,Turf Moor,Jarred Gillett,2024
+25,Sat,17 February 2024,17,2,2024,15:00,Fulham,1.50,1,2,1.50,Aston Villa,24401.00,Craven Cottage,Lewis Smith,2024
+25,Sat,17 February 2024,17,2,2024,15:00,Nott'ham Forest,2.80,2,0,0.50,West Ham,29490.00,The City Ground,Thomas Bramall,2024
+25,Sat,17 February 2024,17,2,2024,17:30,Manchester City,2.60,1,1,1.40,Chelsea,52178.00,Etihad Stadium,Andy Madley,2024
+25,Sun,18 February 2024,18,2,2024,14:00,Sheffield Utd,0.60,0,5,2.90,Brighton,29522.00,Bramall Lane,Stuart Attwell,2024
+25,Sun,18 February 2024,18,2,2024,16:30,Luton Town,1.80,1,2,2.90,Manchester Utd,11483.00,Kenilworth Road Stadium,David Coote,2024
+25,Mon,19 February 2024,19,2,2024,20:00,Everton,1.70,1,1,0.70,Crystal Palace,38164.00,Goodison Park,Paul Tierney,2024
+18,Tue,20 February 2024,20,2,2024,19:30,Manchester City,2.30,1,0,0.40,Brentford,52247.00,Etihad Stadium,Darren England,2024
+26,Wed,21 February 2024,21,2,2024,19:30,Liverpool,3.30,4,1,0.90,Luton Town,59713.00,Anfield,Andy Madley,2024
+26,Sat,24 February 2024,24,2,2024,15:00,Manchester Utd,1.70,1,2,1.20,Fulham,73487.00,Old Trafford,Michael Oliver,2024
+26,Sat,24 February 2024,24,2,2024,15:00,Crystal Palace,2.40,3,0,0.10,Burnley,24042.00,Selhurst Park,Lewis Smith,2024
+26,Sat,24 February 2024,24,2,2024,15:00,Brighton,1.40,1,1,0.30,Everton,41646.00,The American Express Community Stadium,Tony Harrington,2024
+26,Sat,24 February 2024,24,2,2024,15:00,Aston Villa,3.60,4,2,2.60,Nott'ham Forest,42131.00,Villa Park,Samuel Barrott,2024
+26,Sat,24 February 2024,24,2,2024,17:30,Bournemouth,0.90,0,1,1.60,Manchester City,11184.00,Vitality Stadium,Jarred Gillett,2024
+26,Sat,24 February 2024,24,2,2024,20:00,Arsenal,2.80,4,1,0.20,Newcastle Utd,60298.00,Emirates Stadium,Paul Tierney,2024
+26,Sun,25 February 2024,25,2,2024,13:30,Wolves,1.30,1,0,0.60,Sheffield Utd,30789.00,Molineux Stadium,Darren Bond,2024
+26,Mon,26 February 2024,26,2,2024,20:00,West Ham,1.70,4,2,0.90,Brentford,62450.00,London Stadium,Simon Hooper,2024
+27,Sat,02 March 2024,2,3,2024,15:00,Fulham,1.30,3,0,1.30,Brighton,24460.00,Craven Cottage,Simon Hooper,2024
+27,Sat,02 March 2024,2,3,2024,15:00,Tottenham,1.90,3,1,0.30,Crystal Palace,61339.00,Tottenham Hotspur Stadium,John Brooks,2024
+27,Sat,02 March 2024,2,3,2024,15:00,Brentford,1.80,2,2,1.80,Chelsea,17140.00,Gtech Community Stadium,Jarred Gillett,2024
+27,Sat,02 March 2024,2,3,2024,15:00,Newcastle Utd,2.10,3,0,0.80,Wolves,52206.00,St James' Park,Tim Robinson,2024
+27,Sat,02 March 2024,2,3,2024,15:00,Nott'ham Forest,1.00,0,1,2.00,Liverpool,29603.00,The City Ground,Paul Tierney,2024
+27,Sat,02 March 2024,2,3,2024,15:00,Everton,2.70,1,3,1.90,West Ham,39262.00,Goodison Park,Craig Pawson,2024
+27,Sat,02 March 2024,2,3,2024,17:30,Luton Town,1.80,2,3,1.90,Aston Villa,11594.00,Kenilworth Road Stadium,Michael Oliver,2024
+27,Sun,03 March 2024,3,3,2024,13:00,Burnley,1.50,0,2,1.10,Bournemouth,19713.00,Turf Moor,David Coote,2024
+27,Sun,03 March 2024,3,3,2024,15:30,Manchester City,3.30,3,1,0.20,Manchester Utd,53514.00,Etihad Stadium,Andy Madley,2024
+27,Mon,04 March 2024,4,3,2024,20:00,Sheffield Utd,0.20,0,6,2.30,Arsenal,29157.00,Bramall Lane,Samuel Barrott,2024
+28,Sat,09 March 2024,9,3,2024,12:30,Manchester Utd,2.70,2,0,1.60,Everton,73601.00,Old Trafford,Simon Hooper,2024
+28,Sat,09 March 2024,9,3,2024,15:00,Bournemouth,3.30,2,2,1.20,Sheffield Utd,11074.00,Vitality Stadium,Anthony Taylor,2024
+28,Sat,09 March 2024,9,3,2024,15:00,Wolves,0.80,2,1,2.60,Fulham,30860.00,Molineux Stadium,Tony Harrington,2024
+28,Sat,09 March 2024,9,3,2024,15:00,Crystal Palace,2.70,1,1,0.80,Luton Town,25103.00,Selhurst Park,Sunny Singh,2024
+28,Sat,09 March 2024,9,3,2024,17:30,Arsenal,1.30,2,1,1.00,Brentford,60331.00,Emirates Stadium,Robert Jones,2024
+28,Sun,10 March 2024,10,3,2024,13:00,Aston Villa,0.80,0,4,1.50,Tottenham,42310.00,Villa Park,Chris Kavanagh,2024
+28,Sun,10 March 2024,10,3,2024,14:00,West Ham,2.10,2,2,0.70,Burnley,62441.00,London Stadium,Darren England,2024
+28,Sun,10 March 2024,10,3,2024,14:00,Brighton,0.40,1,0,0.70,Nott'ham Forest,31505.00,The American Express Community Stadium,Michael Salisbury,2024
+28,Sun,10 March 2024,10,3,2024,15:45,Liverpool,2.70,1,1,1.60,Manchester City,59947.00,Anfield,Michael Oliver,2024
+28,Mon,11 March 2024,11,3,2024,20:00,Chelsea,1.60,3,2,0.70,Newcastle Utd,37753.00,Stamford Bridge,John Brooks,2024
+17,Wed,13 March 2024,13,3,2024,19:30,Bournemouth,2.30,4,3,2.00,Luton Town,11198.00,Vitality Stadium,Samuel Allison,2024
+29,Sat,16 March 2024,16,3,2024,15:00,Luton Town,0.60,1,1,2.00,Nott'ham Forest,11630.00,Kenilworth Road Stadium,Darren England,2024
+29,Sat,16 March 2024,16,3,2024,15:00,Burnley,2.80,2,1,1.10,Brentford,20431.00,Turf Moor,Darren Bond,2024
+29,Sat,16 March 2024,16,3,2024,17:30,Fulham,2.60,3,0,2.40,Tottenham,24410.00,Craven Cottage,Robert Jones,2024
+29,Sun,17 March 2024,17,3,2024,14:00,West Ham,2.00,1,1,0.70,Aston Villa,62461.00,London Stadium,Jarred Gillett,2024
+30,Sat,30 March 2024,30,3,2024,12:30,Newcastle Utd,4.10,4,3,1.40,West Ham,52199.00,St James' Park,Robert Jones,2024
+30,Sat,30 March 2024,30,3,2024,15:00,Bournemouth,1.30,2,1,1.00,Everton,11207.00,Vitality Stadium,Samuel Barrott,2024
+30,Sat,30 March 2024,30,3,2024,15:00,Tottenham,2.90,2,1,0.50,Luton Town,61534.00,Tottenham Hotspur Stadium,Jarred Gillett,2024
+30,Sat,30 March 2024,30,3,2024,15:00,Nott'ham Forest,0.90,1,1,1.20,Crystal Palace,29520.00,The City Ground,Chris Kavanagh,2024
+30,Sat,30 March 2024,30,3,2024,15:00,Sheffield Utd,1.90,3,3,1.30,Fulham,30010.00,Bramall Lane,Tim Robinson,2024
+30,Sat,30 March 2024,30,3,2024,15:00,Chelsea,4.20,2,2,1.60,Burnley,39535.00,Stamford Bridge,Darren England,2024
+30,Sat,30 March 2024,30,3,2024,17:30,Aston Villa,1.00,2,0,1.50,Wolves,42640.00,Villa Park,Paul Tierney,2024
+30,Sat,30 March 2024,30,3,2024,20:00,Brentford,3.20,1,1,0.60,Manchester Utd,17138.00,Gtech Community Stadium,Simon Hooper,2024
+30,Sun,31 March 2024,31,3,2024,14:00,Liverpool,2.80,2,1,0.50,Brighton,60061.00,Anfield,David Coote,2024
+30,Sun,31 March 2024,31,3,2024,16:30,Manchester City,1.00,0,0,0.70,Arsenal,52178.00,Etihad Stadium,Anthony Taylor,2024
+31,Tue,02 April 2024,2,4,2024,19:30,Newcastle Utd,2.40,1,1,1.40,Everton,52135.00,St James' Park,Tony Harrington,2024
+31,Tue,02 April 2024,2,4,2024,19:30,Nott'ham Forest,1.50,3,1,1.50,Fulham,28997.00,The City Ground,Michael Oliver,2024
+31,Tue,02 April 2024,2,4,2024,19:45,Bournemouth,1.10,1,0,0.20,Crystal Palace,11058.00,Vitality Stadium,Graham Scott,2024
+31,Tue,02 April 2024,2,4,2024,19:45,Burnley,1.30,1,1,0.90,Wolves,21528.00,Turf Moor,Thomas Bramall,2024
+31,Tue,02 April 2024,2,4,2024,20:15,West Ham,1.50,1,1,1.00,Tottenham,62469.00,London Stadium,John Brooks,2024
+31,Wed,03 April 2024,3,4,2024,19:30,Arsenal,0.70,2,0,0.30,Luton Town,60262.00,Emirates Stadium,Craig Pawson,2024
+31,Wed,03 April 2024,3,4,2024,19:30,Brentford,0.60,0,0,1.10,Brighton,17024.00,Gtech Community Stadium,Andy Madley,2024
+31,Wed,03 April 2024,3,4,2024,20:15,Manchester City,3.40,4,1,0.80,Aston Villa,53422.00,Etihad Stadium,Darren England,2024
+31,Thu,04 April 2024,4,4,2024,19:30,Liverpool,1.80,3,1,0.60,Sheffield Utd,60055.00,Anfield,Stuart Attwell,2024
+31,Thu,04 April 2024,4,4,2024,20:15,Chelsea,3.00,4,3,1.50,Manchester Utd,39694.00,Stamford Bridge,Jarred Gillett,2024
+32,Sat,06 April 2024,6,4,2024,12:30,Crystal Palace,1.10,2,4,1.90,Manchester City,25132.00,Selhurst Park,Paul Tierney,2024
+32,Sat,06 April 2024,6,4,2024,15:00,Luton Town,1.50,2,1,0.40,Bournemouth,11797.00,Kenilworth Road Stadium,Andy Madley,2024
+32,Sat,06 April 2024,6,4,2024,15:00,Wolves,1.50,1,2,1.20,West Ham,31504.00,Molineux Stadium,Tony Harrington,2024
+32,Sat,06 April 2024,6,4,2024,15:00,Fulham,1.20,0,1,1.00,Newcastle Utd,24418.00,Craven Cottage,Samuel Allison,2024
+32,Sat,06 April 2024,6,4,2024,15:00,Everton,0.90,1,0,0.50,Burnley,39125.00,Goodison Park,Michael Oliver,2024
+32,Sat,06 April 2024,6,4,2024,15:00,Aston Villa,1.50,3,3,1.50,Brentford,42118.00,Villa Park,Michael Salisbury,2024
+32,Sat,06 April 2024,6,4,2024,17:30,Brighton,0.50,0,3,3.40,Arsenal,31677.00,The American Express Community Stadium,John Brooks,2024
+32,Sun,07 April 2024,7,4,2024,15:30,Manchester Utd,0.70,2,2,3.60,Liverpool,73501.00,Old Trafford,Anthony Taylor,2024
+32,Sun,07 April 2024,7,4,2024,17:30,Sheffield Utd,1.40,2,2,0.30,Chelsea,28638.00,Bramall Lane,Robert Jones,2024
+32,Sun,07 April 2024,7,4,2024,18:00,Tottenham,1.50,3,1,1.50,Nott'ham Forest,61098.00,Tottenham Hotspur Stadium,Simon Hooper,2024
+33,Sat,13 April 2024,13,4,2024,12:30,Newcastle Utd,2.80,4,0,0.80,Tottenham,52147.00,St James' Park,Tim Robinson,2024
+33,Sat,13 April 2024,13,4,2024,15:00,Manchester City,4.20,5,1,0.50,Luton Town,52149.00,Etihad Stadium,John Brooks,2024
+33,Sat,13 April 2024,13,4,2024,15:00,Nott'ham Forest,1.90,2,2,1.00,Wolves,29604.00,The City Ground,Craig Pawson,2024
+33,Sat,13 April 2024,13,4,2024,15:00,Brentford,1.00,2,0,0.80,Sheffield Utd,17115.00,Gtech Community Stadium,Samuel Barrott,2024
+33,Sat,13 April 2024,13,4,2024,15:00,Burnley,1.70,1,1,0.90,Brighton,20687.00,Turf Moor,Simon Hooper,2024
+33,Sat,13 April 2024,13,4,2024,17:30,Bournemouth,1.60,2,2,1.20,Manchester Utd,11229.00,Vitality Stadium,Tony Harrington,2024
+33,Sun,14 April 2024,14,4,2024,14:00,Liverpool,2.70,0,1,2.00,Crystal Palace,60090.00,Anfield,Chris Kavanagh,2024
+33,Sun,14 April 2024,14,4,2024,14:00,West Ham,0.90,0,2,3.20,Fulham,62459.00,London Stadium,Stuart Attwell,2024
+33,Sun,14 April 2024,14,4,2024,16:30,Arsenal,1.60,0,2,0.90,Aston Villa,60350.00,Emirates Stadium,David Coote,2024
+33,Mon,15 April 2024,15,4,2024,20:00,Chelsea,3.10,6,0,1.50,Everton,39392.00,Stamford Bridge,Paul Tierney,2024
+34,Sat,20 April 2024,20,4,2024,15:00,Luton Town,0.60,1,5,3.10,Brentford,11877.00,Kenilworth Road Stadium,Jarred Gillett,2024
+34,Sat,20 April 2024,20,4,2024,15:00,Sheffield Utd,2.40,1,4,2.20,Burnley,28964.00,Bramall Lane,Andy Madley,2024
+34,Sat,20 April 2024,20,4,2024,19:30,Wolves,0.20,0,2,1.20,Arsenal,31621.00,Molineux Stadium,Paul Tierney,2024
+34,Sun,21 April 2024,21,4,2024,13:30,Everton,0.30,2,0,0.90,Nott'ham Forest,39239.00,Goodison Park,Anthony Taylor,2024
+34,Sun,21 April 2024,21,4,2024,15:00,Aston Villa,2.40,3,1,1.80,Bournemouth,42189.00,Villa Park,Tim Robinson,2024
+34,Sun,21 April 2024,21,4,2024,15:00,Crystal Palace,2.40,5,2,1.30,West Ham,25145.00,Selhurst Park,Graham Scott,2024
+34,Sun,21 April 2024,21,4,2024,16:30,Fulham,0.80,1,3,1.00,Liverpool,24414.00,Craven Cottage,Craig Pawson,2024
+29,Tue,23 April 2024,23,4,2024,20:00,Arsenal,3.30,5,0,1.60,Chelsea,60238.00,Emirates Stadium,Simon Hooper,2024
+29,Wed,24 April 2024,24,4,2024,19:45,Wolves,0.50,0,1,1.90,Bournemouth,25541.00,Molineux Stadium,Stuart Attwell,2024
+29,Wed,24 April 2024,24,4,2024,20:00,Manchester Utd,2.90,4,2,0.80,Sheffield Utd,73549.00,Old Trafford,Michael Salisbury,2024
+29,Wed,24 April 2024,24,4,2024,20:00,Everton,1.20,2,0,2.10,Liverpool,38222.00,Goodison Park,Andy Madley,2024
+29,Wed,24 April 2024,24,4,2024,20:00,Crystal Palace,0.90,2,0,0.40,Newcastle Utd,25002.00,Selhurst Park,Thomas Bramall,2024
+29,Thu,25 April 2024,25,4,2024,20:00,Brighton,0.60,0,4,1.40,Manchester City,31596.00,The American Express Community Stadium,Jarred Gillett,2024
+35,Sat,27 April 2024,27,4,2024,12:30,West Ham,0.70,2,2,1.70,Liverpool,62474.00,London Stadium,Anthony Taylor,2024
+35,Sat,27 April 2024,27,4,2024,15:00,Wolves,1.20,2,1,0.60,Luton Town,31531.00,Molineux Stadium,David Coote,2024
+35,Sat,27 April 2024,27,4,2024,15:00,Fulham,1.10,1,1,1.00,Crystal Palace,24142.00,Craven Cottage,Stuart Attwell,2024
+35,Sat,27 April 2024,27,4,2024,15:00,Manchester Utd,2.70,1,1,2.10,Burnley,73571.00,Old Trafford,John Brooks,2024
+35,Sat,27 April 2024,27,4,2024,15:00,Newcastle Utd,3.10,5,1,1.50,Sheffield Utd,52196.00,St James' Park,Tony Harrington,2024
+35,Sat,27 April 2024,27,4,2024,17:30,Everton,0.80,1,0,0.90,Brentford,39098.00,Goodison Park,Darren England,2024
+35,Sat,27 April 2024,27,4,2024,20:00,Aston Villa,1.10,2,2,1.60,Chelsea,42354.00,Villa Park,Craig Pawson,2024
+35,Sun,28 April 2024,28,4,2024,14:00,Tottenham,2.30,2,3,1.00,Arsenal,61554.00,Tottenham Hotspur Stadium,Michael Oliver,2024
+35,Sun,28 April 2024,28,4,2024,14:00,Bournemouth,1.90,3,0,0.90,Brighton,11188.00,Vitality Stadium,Paul Tierney,2024
+35,Sun,28 April 2024,28,4,2024,16:30,Nott'ham Forest,1.90,0,2,0.90,Manchester City,29677.00,The City Ground,Simon Hooper,2024
+26,Thu,02 May 2024,2,5,2024,19:30,Chelsea,2.20,2,0,1.60,Tottenham,39086.00,Stamford Bridge,Robert Jones,2024
+36,Fri,03 May 2024,3,5,2024,20:00,Luton Town,0.80,1,1,1.40,Everton,11873.00,Kenilworth Road Stadium,Tim Robinson,2024
+36,Sat,04 May 2024,4,5,2024,12:30,Arsenal,3.30,3,0,0.50,Bournemouth,60348.00,Emirates Stadium,David Coote,2024
+36,Sat,04 May 2024,4,5,2024,15:00,Burnley,1.00,1,4,3.40,Newcastle Utd,21781.00,Turf Moor,Anthony Taylor,2024
+36,Sat,04 May 2024,4,5,2024,15:00,Sheffield Utd,2.20,1,3,1.40,Nott'ham Forest,28516.00,Bramall Lane,Chris Kavanagh,2024
+36,Sat,04 May 2024,4,5,2024,15:00,Brentford,0.60,0,0,1.30,Fulham,17090.00,Gtech Community Stadium,Graham Scott,2024
+36,Sat,04 May 2024,4,5,2024,17:30,Manchester City,3.70,5,1,0.30,Wolves,52439.00,Etihad Stadium,Craig Pawson,2024
+36,Sun,05 May 2024,5,5,2024,14:00,Brighton,2.50,1,0,0.10,Aston Villa,31596.00,The American Express Community Stadium,Robert Jones,2024
+36,Sun,05 May 2024,5,5,2024,14:00,Chelsea,4.10,5,0,0.90,West Ham,39295.00,Stamford Bridge,Andy Madley,2024
+36,Sun,05 May 2024,5,5,2024,16:30,Liverpool,3.30,4,2,1.20,Tottenham,60075.00,Anfield,Paul Tierney,2024
+36,Mon,06 May 2024,6,5,2024,20:00,Crystal Palace,1.70,4,0,0.40,Manchester Utd,25190.00,Selhurst Park,Jarred Gillett,2024
+37,Sat,11 May 2024,11,5,2024,12:30,Fulham,0.10,0,4,3.20,Manchester City,24418.00,Craven Cottage,Anthony Taylor,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Wolves,1.60,1,3,2.60,Crystal Palace,31424.00,Molineux Stadium,Thomas Bramall,2024
+37,Sat,11 May 2024,11,5,2024,15:00,West Ham,3.20,3,1,0.30,Luton Town,62475.00,London Stadium,Michael Oliver,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Tottenham,2.70,2,1,0.70,Burnley,61148.00,Tottenham Hotspur Stadium,Jarred Gillett,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Everton,2.30,1,0,0.60,Sheffield Utd,39221.00,Goodison Park,Stuart Attwell,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Newcastle Utd,2.20,1,1,1.40,Brighton,51997.00,St James' Park,Darren England,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Bournemouth,0.70,1,2,1.10,Brentford,11154.00,Vitality Stadium,Matt Donohue,2024
+37,Sat,11 May 2024,11,5,2024,17:30,Nott'ham Forest,1.50,2,3,1.60,Chelsea,29708.00,The City Ground,Tony Harrington,2024
+37,Sun,12 May 2024,12,5,2024,16:30,Manchester Utd,0.50,0,1,1.50,Arsenal,73600.00,Old Trafford,Paul Tierney,2024
+37,Mon,13 May 2024,13,5,2024,20:00,Aston Villa,3.10,3,3,1.70,Liverpool,42241.00,Villa Park,Simon Hooper,2024
+34,Tue,14 May 2024,14,5,2024,20:00,Tottenham,1.70,0,2,2.40,Manchester City,61065.00,Tottenham Hotspur Stadium,Chris Kavanagh,2024
+34,Wed,15 May 2024,15,5,2024,19:45,Brighton,1.30,1,2,1.50,Chelsea,31555.00,The American Express Community Stadium,Michael Salisbury,2024
+34,Wed,15 May 2024,15,5,2024,20:00,Manchester Utd,1.50,3,2,2.20,Newcastle Utd,73582.00,Old Trafford,Robert Jones,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Luton Town,2.00,2,4,1.10,Fulham,12027.00,Kenilworth Road Stadium,Matt Donohue,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Sheffield Utd,1.00,0,3,3.10,Tottenham,29116.00,Bramall Lane,Andy Madley,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Manchester City,1.90,3,1,0.40,West Ham,55097.00,Etihad Stadium,John Brooks,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Arsenal,2.90,2,1,0.60,Everton,60312.00,Emirates Stadium,Michael Oliver,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Brighton,1.70,0,2,1.30,Manchester Utd,31662.00,The American Express Community Stadium,Craig Pawson,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Brentford,1.10,2,4,3.40,Newcastle Utd,17124.00,Gtech Community Stadium,Simon Hooper,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Chelsea,1.10,2,1,2.20,Bournemouth,39724.00,Stamford Bridge,Anthony Taylor,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Crystal Palace,2.50,5,0,0.90,Aston Villa,25191.00,Selhurst Park,Darren Bond,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Liverpool,4.50,2,0,0.50,Wolves,60059.00,Anfield,Chris Kavanagh,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Burnley,1.20,1,2,1.70,Nott'ham Forest,21109.00,Turf Moor,Graham Scott,2024
+35,Sun,28 April 2024,28,4,2024,14:00,Tottenham,2.30,2,3,1.00,Arsenal,61554.00,Tottenham Hotspur Stadium,Michael Oliver,2024
+35,Sun,28 April 2024,28,4,2024,14:00,Bournemouth,1.90,3,0,0.90,Brighton,11188.00,Vitality Stadium,Paul Tierney,2024
+35,Sun,28 April 2024,28,4,2024,16:30,Nott'ham Forest,1.90,0,2,0.90,Manchester City,29677.00,The City Ground,Simon Hooper,2024
+26,Thu,02 May 2024,2,5,2024,19:30,Chelsea,2.20,2,0,1.60,Tottenham,39086.00,Stamford Bridge,Robert Jones,2024
+36,Fri,03 May 2024,3,5,2024,20:00,Luton Town,0.80,1,1,1.40,Everton,11873.00,Kenilworth Road Stadium,Tim Robinson,2024
+36,Sat,04 May 2024,4,5,2024,12:30,Arsenal,3.30,3,0,0.50,Bournemouth,60348.00,Emirates Stadium,David Coote,2024
+36,Sat,04 May 2024,4,5,2024,15:00,Burnley,1.00,1,4,3.40,Newcastle Utd,21781.00,Turf Moor,Anthony Taylor,2024
+36,Sat,04 May 2024,4,5,2024,15:00,Sheffield Utd,2.20,1,3,1.40,Nott'ham Forest,28516.00,Bramall Lane,Chris Kavanagh,2024
+36,Sat,04 May 2024,4,5,2024,15:00,Brentford,0.60,0,0,1.30,Fulham,17090.00,Gtech Community Stadium,Graham Scott,2024
+36,Sat,04 May 2024,4,5,2024,17:30,Manchester City,3.70,5,1,0.30,Wolves,52439.00,Etihad Stadium,Craig Pawson,2024
+36,Sun,05 May 2024,5,5,2024,14:00,Brighton,2.50,1,0,0.10,Aston Villa,31596.00,The American Express Community Stadium,Robert Jones,2024
+36,Sun,05 May 2024,5,5,2024,14:00,Chelsea,4.10,5,0,0.90,West Ham,39295.00,Stamford Bridge,Andy Madley,2024
+36,Sun,05 May 2024,5,5,2024,16:30,Liverpool,3.30,4,2,1.20,Tottenham,60075.00,Anfield,Paul Tierney,2024
+36,Mon,06 May 2024,6,5,2024,20:00,Crystal Palace,1.70,4,0,0.40,Manchester Utd,25190.00,Selhurst Park,Jarred Gillett,2024
+37,Sat,11 May 2024,11,5,2024,12:30,Fulham,0.10,0,4,3.20,Manchester City,24418.00,Craven Cottage,Anthony Taylor,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Wolves,1.60,1,3,2.60,Crystal Palace,31424.00,Molineux Stadium,Thomas Bramall,2024
+37,Sat,11 May 2024,11,5,2024,15:00,West Ham,3.20,3,1,0.30,Luton Town,62475.00,London Stadium,Michael Oliver,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Tottenham,2.70,2,1,0.70,Burnley,61148.00,Tottenham Hotspur Stadium,Jarred Gillett,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Everton,2.30,1,0,0.60,Sheffield Utd,39221.00,Goodison Park,Stuart Attwell,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Newcastle Utd,2.20,1,1,1.40,Brighton,51997.00,St James' Park,Darren England,2024
+37,Sat,11 May 2024,11,5,2024,15:00,Bournemouth,0.70,1,2,1.10,Brentford,11154.00,Vitality Stadium,Matt Donohue,2024
+37,Sat,11 May 2024,11,5,2024,17:30,Nott'ham Forest,1.50,2,3,1.60,Chelsea,29708.00,The City Ground,Tony Harrington,2024
+37,Sun,12 May 2024,12,5,2024,16:30,Manchester Utd,0.50,0,1,1.50,Arsenal,73600.00,Old Trafford,Paul Tierney,2024
+37,Mon,13 May 2024,13,5,2024,20:00,Aston Villa,3.10,3,3,1.70,Liverpool,42241.00,Villa Park,Simon Hooper,2024
+34,Tue,14 May 2024,14,5,2024,20:00,Tottenham,1.70,0,2,2.40,Manchester City,61065.00,Tottenham Hotspur Stadium,Chris Kavanagh,2024
+34,Wed,15 May 2024,15,5,2024,19:45,Brighton,1.30,1,2,1.50,Chelsea,31555.00,The American Express Community Stadium,Michael Salisbury,2024
+34,Wed,15 May 2024,15,5,2024,20:00,Manchester Utd,1.50,3,2,2.20,Newcastle Utd,73582.00,Old Trafford,Robert Jones,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Luton Town,2.00,2,4,1.10,Fulham,12027.00,Kenilworth Road Stadium,Matt Donohue,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Sheffield Utd,1.00,0,3,3.10,Tottenham,29116.00,Bramall Lane,Andy Madley,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Manchester City,1.90,3,1,0.40,West Ham,55097.00,Etihad Stadium,John Brooks,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Arsenal,2.90,2,1,0.60,Everton,60312.00,Emirates Stadium,Michael Oliver,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Brighton,1.70,0,2,1.30,Manchester Utd,31662.00,The American Express Community Stadium,Craig Pawson,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Brentford,1.10,2,4,3.40,Newcastle Utd,17124.00,Gtech Community Stadium,Simon Hooper,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Chelsea,1.10,2,1,2.20,Bournemouth,39724.00,Stamford Bridge,Anthony Taylor,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Crystal Palace,2.50,5,0,0.90,Aston Villa,25191.00,Selhurst Park,Darren Bond,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Liverpool,4.50,2,0,0.50,Wolves,60059.00,Anfield,Chris Kavanagh,2024
+38,Sun,19 May 2024,19,5,2024,16:00,Burnley,1.20,1,2,1.70,Nott'ham Forest,21109.00,Turf Moor,Graham Scott,2024
+1,Fri,05 August 2022,5,8,2022,20:00,Crystal Palace,1.20,0,2,1.00,Arsenal,25286.00,Selhurst Park,Anthony Taylor,2023
+1,Sat,06 August 2022,6,8,2022,12:30,Fulham,1.20,2,2,1.20,Liverpool,22207.00,Craven Cottage,Andy Madley,2023
+1,Sat,06 August 2022,6,8,2022,15:00,Tottenham,1.50,4,1,0.50,Southampton,61732.00,Tottenham Hotspur Stadium,Andre Marriner,2023
+1,Sat,06 August 2022,6,8,2022,15:00,Newcastle Utd,1.70,2,0,0.30,Nott'ham Forest,52245.00,St James' Park,Simon Hooper,2023
+1,Sat,06 August 2022,6,8,2022,15:00,Leeds United,0.80,2,1,1.30,Wolves,36347.00,Elland Road,Robert Jones,2023
+1,Sat,06 August 2022,6,8,2022,15:00,Bournemouth,0.60,2,0,0.70,Aston Villa,11013.00,Vitality Stadium,Peter Bankes,2023
+1,Sat,06 August 2022,6,8,2022,17:30,Everton,0.70,0,1,1.50,Chelsea,39254.00,Goodison Park,Craig Pawson,2023
+1,Sun,07 August 2022,7,8,2022,14:00,Leicester City,0.60,2,2,0.80,Brentford,31794.00,King Power Stadium,Jarred Gillett,2023
+1,Sun,07 August 2022,7,8,2022,14:00,Manchester Utd,1.40,1,2,1.50,Brighton,73711.00,Old Trafford,Paul Tierney,2023
+1,Sun,07 August 2022,7,8,2022,16:30,West Ham,0.50,0,2,2.20,Manchester City,62443.00,London Stadium,Michael Oliver,2023
+2,Sat,13 August 2022,13,8,2022,12:30,Aston Villa,2.30,2,1,1.60,Everton,41883.00,Villa Park,Michael Oliver,2023
+2,Sat,13 August 2022,13,8,2022,15:00,Manchester City,1.70,4,0,0.10,Bournemouth,53453.00,Etihad Stadium,David Coote,2023
+2,Sat,13 August 2022,13,8,2022,15:00,Southampton,1.20,2,2,1.80,Leeds United,30815.00,St. Mary's Stadium,Tony Harrington,2023
+2,Sat,13 August 2022,13,8,2022,15:00,Wolves,0.90,0,0,1.50,Fulham,31178.00,Molineux Stadium,John Brooks,2023
+2,Sat,13 August 2022,13,8,2022,15:00,Arsenal,2.70,4,2,0.50,Leicester City,60033.00,Emirates Stadium,Darren England,2023
+2,Sat,13 August 2022,13,8,2022,15:00,Brighton,1.50,0,0,0.20,Newcastle Utd,31552.00,The American Express Community Stadium,Graham Scott,2023
+2,Sat,13 August 2022,13,8,2022,17:30,Brentford,1.60,4,0,0.90,Manchester Utd,17051.00,Brentford Community Stadium,Stuart Attwell,2023
+2,Sun,14 August 2022,14,8,2022,14:00,Nott'ham Forest,1.30,1,0,2.10,West Ham,29281.00,The City Ground,Robert Jones,2023
+2,Sun,14 August 2022,14,8,2022,16:30,Chelsea,1.60,2,2,1.00,Tottenham,39946.00,Stamford Bridge,Anthony Taylor,2023
+2,Mon,15 August 2022,15,8,2022,20:00,Liverpool,2.00,1,1,1.00,Crystal Palace,52970.00,Anfield,Paul Tierney,2023
+3,Sat,20 August 2022,20,8,2022,12:30,Tottenham,1.70,1,0,0.70,Wolves,61298.00,Tottenham Hotspur Stadium,Simon Hooper,2023
+3,Sat,20 August 2022,20,8,2022,15:00,Leicester City,0.30,1,2,0.90,Southampton,30850.00,King Power Stadium,Michael Salisbury,2023
+3,Sat,20 August 2022,20,8,2022,15:00,Everton,1.50,1,1,1.00,Nott'ham Forest,39271.00,Goodison Park,Andre Marriner,2023
+3,Sat,20 August 2022,20,8,2022,15:00,Crystal Palace,2.60,3,1,0.90,Aston Villa,22012.00,Selhurst Park,Andy Madley,2023
+3,Sat,20 August 2022,20,8,2022,15:00,Fulham,2.40,3,2,1.80,Brentford,21798.00,Craven Cottage,Peter Bankes,2023
+3,Sat,20 August 2022,20,8,2022,17:30,Bournemouth,0.30,0,3,1.30,Arsenal,10423.00,Vitality Stadium,Craig Pawson,2023
+3,Sun,21 August 2022,21,8,2022,14:00,Leeds United,2.10,3,0,0.90,Chelsea,36372.00,Elland Road,Stuart Attwell,2023
+3,Sun,21 August 2022,21,8,2022,14:00,West Ham,0.80,0,2,1.70,Brighton,62449.00,London Stadium,Anthony Taylor,2023
+3,Sun,21 August 2022,21,8,2022,16:30,Newcastle Utd,1.80,3,3,2.10,Manchester City,52258.00,St James' Park,Jarred Gillett,2023
+3,Mon,22 August 2022,22,8,2022,20:00,Manchester Utd,1.80,2,1,1.30,Liverpool,74147.00,Old Trafford,Michael Oliver,2023
+4,Sat,27 August 2022,27,8,2022,12:30,Southampton,1.40,0,1,1.10,Manchester Utd,31196.00,St. Mary's Stadium,Andy Madley,2023
+4,Sat,27 August 2022,27,8,2022,15:00,Manchester City,2.20,4,2,0.10,Crystal Palace,53112.00,Etihad Stadium,Darren England,2023
+4,Sat,27 August 2022,27,8,2022,15:00,Brighton,2.00,1,0,1.80,Leeds United,30953.00,The American Express Community Stadium,Michael Salisbury,2023
+4,Sat,27 August 2022,27,8,2022,15:00,Chelsea,1.80,2,1,2.50,Leicester City,39953.00,Stamford Bridge,Paul Tierney,2023
+4,Sat,27 August 2022,27,8,2022,15:00,Brentford,2.10,1,1,1.10,Everton,17009.00,Brentford Community Stadium,John Brooks,2023
+4,Sat,27 August 2022,27,8,2022,15:00,Liverpool,3.30,9,0,0.30,Bournemouth,53328.00,Anfield,Stuart Attwell,2023
+4,Sat,27 August 2022,27,8,2022,17:30,Arsenal,2.60,2,1,0.80,Fulham,60164.00,Emirates Stadium,Jarred Gillett,2023
+4,Sun,28 August 2022,28,8,2022,14:00,Wolves,0.70,1,1,1.70,Newcastle Utd,31311.00,Molineux Stadium,Peter Bankes,2023
+4,Sun,28 August 2022,28,8,2022,14:00,Aston Villa,0.50,0,1,0.60,West Ham,41796.00,Villa Park,David Coote,2023
+4,Sun,28 August 2022,28,8,2022,16:30,Nott'ham Forest,0.90,0,2,2.40,Tottenham,29296.00,The City Ground,Craig Pawson,2023
+5,Tue,30 August 2022,30,8,2022,19:30,Fulham,0.70,2,1,1.40,Brighton,22224.00,Craven Cottage,Thomas Bramall,2023
+5,Tue,30 August 2022,30,8,2022,19:30,Crystal Palace,1.00,1,1,1.40,Brentford,25043.00,Selhurst Park,Simon Hooper,2023
+5,Tue,30 August 2022,30,8,2022,19:45,Southampton,1.10,2,1,1.10,Chelsea,31542.00,St. Mary's Stadium,Michael Oliver,2023
+5,Tue,30 August 2022,30,8,2022,20:00,Leeds United,1.00,1,1,1.00,Everton,36338.00,Elland Road,Darren England,2023
+5,Wed,31 August 2022,31,8,2022,19:30,Bournemouth,0.40,0,0,1.50,Wolves,10113.00,Vitality Stadium,Anthony Taylor,2023
+5,Wed,31 August 2022,31,8,2022,19:30,Manchester City,3.30,6,0,0.70,Nott'ham Forest,53409.00,Etihad Stadium,Paul Tierney,2023
+5,Wed,31 August 2022,31,8,2022,19:30,Arsenal,2.40,2,1,0.40,Aston Villa,60012.00,Emirates Stadium,Robert Jones,2023
+5,Wed,31 August 2022,31,8,2022,19:45,West Ham,1.20,1,1,0.60,Tottenham,62450.00,London Stadium,Peter Bankes,2023
+5,Wed,31 August 2022,31,8,2022,20:00,Liverpool,1.50,2,1,0.70,Newcastle Utd,53316.00,Anfield,Andre Marriner,2023
+5,Thu,01 September 2022,1,9,2022,20:00,Leicester City,0.70,0,1,1.50,Manchester Utd,32226.00,King Power Stadium,Craig Pawson,2023
+6,Sat,03 September 2022,3,9,2022,12:30,Everton,1.70,0,0,2.10,Liverpool,39240.00,Goodison Park,Anthony Taylor,2023
+6,Sat,03 September 2022,3,9,2022,15:00,Nott'ham Forest,1.90,2,3,0.80,Bournemouth,28720.00,The City Ground,Michael Oliver,2023
+6,Sat,03 September 2022,3,9,2022,15:00,Wolves,0.80,1,0,1.20,Southampton,30546.00,Molineux Stadium,John Brooks,2023
+6,Sat,03 September 2022,3,9,2022,15:00,Newcastle Utd,2.80,0,0,1.00,Crystal Palace,51863.00,St James' Park,Michael Salisbury,2023
+6,Sat,03 September 2022,3,9,2022,15:00,Brentford,2.30,5,2,1.70,Leeds United,17092.00,Brentford Community Stadium,Robert Jones,2023
+6,Sat,03 September 2022,3,9,2022,15:00,Tottenham,2.90,2,1,0.70,Fulham,61641.00,Tottenham Hotspur Stadium,Stuart Attwell,2023
+6,Sat,03 September 2022,3,9,2022,15:00,Chelsea,0.90,2,1,1.10,West Ham,39923.00,Stamford Bridge,Andy Madley,2023
+6,Sat,03 September 2022,3,9,2022,17:30,Aston Villa,0.30,1,1,2.10,Manchester City,41830.00,Villa Park,Simon Hooper,2023
+6,Sun,04 September 2022,4,9,2022,14:00,Brighton,2.60,5,2,1.40,Leicester City,31185.00,The American Express Community Stadium,Tony Harrington,2023
+6,Sun,04 September 2022,4,9,2022,16:30,Manchester Utd,1.50,3,1,1.30,Arsenal,73431.00,Old Trafford,Paul Tierney,2023
+8,Fri,16 September 2022,16,9,2022,20:00,Aston Villa,1.50,1,0,0.30,Southampton,40758.00,Villa Park,Tony Harrington,2023
+8,Fri,16 September 2022,16,9,2022,20:00,Nott'ham Forest,1.40,2,3,0.90,Fulham,28654.00,The City Ground,Jarred Gillett,2023
+8,Sat,17 September 2022,17,9,2022,12:30,Wolves,0.40,0,3,1.10,Manchester City,31578.00,Molineux Stadium,Anthony Taylor,2023
+8,Sat,17 September 2022,17,9,2022,15:00,Newcastle Utd,1.90,1,1,0.70,Bournemouth,52238.00,St James' Park,Craig Pawson,2023
+8,Sat,17 September 2022,17,9,2022,17:30,Tottenham,2.20,6,2,1.80,Leicester City,61450.00,Tottenham Hotspur Stadium,Simon Hooper,2023
+8,Sun,18 September 2022,18,9,2022,12:00,Brentford,0.50,0,3,1.50,Arsenal,17122.00,Brentford Community Stadium,David Coote,2023
+8,Sun,18 September 2022,18,9,2022,14:15,Everton,0.40,1,0,1.00,West Ham,39298.00,Goodison Park,Michael Oliver,2023
+9,Sat,01 October 2022,1,10,2022,12:30,Arsenal,2.40,3,1,1.60,Tottenham,60278.00,Emirates Stadium,Anthony Taylor,2023
+9,Sat,01 October 2022,1,10,2022,15:00,Southampton,1.70,1,2,2.00,Everton,30510.00,St. Mary's Stadium,Andre Marriner,2023
+9,Sat,01 October 2022,1,10,2022,15:00,Crystal Palace,0.40,1,2,1.10,Chelsea,25198.00,Selhurst Park,Chris Kavanagh,2023
+9,Sat,01 October 2022,1,10,2022,15:00,Liverpool,1.50,3,3,1.40,Brighton,53320.00,Anfield,Andy Madley,2023
+9,Sat,01 October 2022,1,10,2022,15:00,Fulham,0.50,1,4,3.30,Newcastle Utd,22913.00,Craven Cottage,Darren England,2023
+9,Sat,01 October 2022,1,10,2022,15:00,Bournemouth,0.40,0,0,0.90,Brentford,10126.00,Vitality Stadium,Thomas Bramall,2023
+9,Sat,01 October 2022,1,10,2022,17:30,West Ham,0.90,2,0,0.70,Wolves,62444.00,London Stadium,Paul Tierney,2023
+9,Sun,02 October 2022,2,10,2022,14:00,Manchester City,3.20,6,3,1.70,Manchester Utd,53475.00,Etihad Stadium,Michael Oliver,2023
+9,Sun,02 October 2022,2,10,2022,16:30,Leeds United,0.40,0,0,2.20,Aston Villa,36582.00,Elland Road,Stuart Attwell,2023
+9,Mon,03 October 2022,3,10,2022,20:00,Leicester City,1.30,4,0,1.10,Nott'ham Forest,32202.00,King Power Stadium,Robert Jones,2023
+10,Sat,08 October 2022,8,10,2022,15:00,Bournemouth,1.10,2,1,1.00,Leicester City,10272.00,Vitality Stadium,Michael Salisbury,2023
+10,Sat,08 October 2022,8,10,2022,15:00,Newcastle Utd,1.50,5,1,1.20,Brentford,52067.00,St James' Park,John Brooks,2023
+10,Sat,08 October 2022,8,10,2022,15:00,Manchester City,2.40,4,0,0.20,Southampton,53365.00,Etihad Stadium,Andy Madley,2023
+10,Sat,08 October 2022,8,10,2022,15:00,Chelsea,1.90,3,0,1.10,Wolves,39940.00,Stamford Bridge,Simon Hooper,2023
+10,Sat,08 October 2022,8,10,2022,17:30,Brighton,0.70,0,1,0.80,Tottenham,31498.00,The American Express Community Stadium,Tony Harrington,2023
+10,Sun,09 October 2022,9,10,2022,14:00,West Ham,2.40,3,1,0.70,Fulham,62407.00,London Stadium,Chris Kavanagh,2023
+10,Sun,09 October 2022,9,10,2022,14:00,Crystal Palace,1.10,2,1,1.00,Leeds United,25042.00,Selhurst Park,Paul Tierney,2023
+10,Sun,09 October 2022,9,10,2022,16:30,Arsenal,2.70,3,2,1.10,Liverpool,60059.00,Emirates Stadium,Michael Oliver,2023
+10,Sun,09 October 2022,9,10,2022,19:00,Everton,0.60,1,2,1.40,Manchester Utd,39258.00,Goodison Park,David Coote,2023
+10,Mon,10 October 2022,10,10,2022,20:00,Nott'ham Forest,0.30,1,1,0.70,Aston Villa,29208.00,The City Ground,Anthony Taylor,2023
+11,Fri,14 October 2022,14,10,2022,20:00,Brentford,1.50,2,0,1.90,Brighton,17016.00,Brentford Community Stadium,Michael Salisbury,2023
+11,Sat,15 October 2022,15,10,2022,12:30,Leicester City,1.00,0,0,0.40,Crystal Palace,31298.00,King Power Stadium,Andy Madley,2023
+11,Sat,15 October 2022,15,10,2022,15:00,Fulham,2.10,2,2,1.00,Bournemouth,22541.00,Craven Cottage,Graham Scott,2023
+11,Sat,15 October 2022,15,10,2022,15:00,Wolves,1.30,1,0,1.50,Nott'ham Forest,31554.00,Molineux Stadium,Thomas Bramall,2023
+11,Sat,15 October 2022,15,10,2022,17:30,Tottenham,2.20,2,0,0.40,Everton,61812.00,Tottenham Hotspur Stadium,Paul Tierney,2023
+11,Sun,16 October 2022,16,10,2022,14:00,Southampton,0.50,1,1,1.70,West Ham,29159.00,St. Mary's Stadium,Peter Bankes,2023
+11,Sun,16 October 2022,16,10,2022,14:00,Aston Villa,1.80,0,2,0.90,Chelsea,41754.00,Villa Park,Robert Jones,2023
+11,Sun,16 October 2022,16,10,2022,14:00,Leeds United,1.80,0,1,0.50,Arsenal,36700.00,Elland Road,Chris Kavanagh,2023
+11,Sun,16 October 2022,16,10,2022,14:00,Manchester Utd,0.80,0,0,0.80,Newcastle Utd,73726.00,Old Trafford,Craig Pawson,2023
+11,Sun,16 October 2022,16,10,2022,16:30,Liverpool,2.10,1,0,1.00,Manchester City,53286.00,Anfield,Anthony Taylor,2023
+12,Tue,18 October 2022,18,10,2022,19:30,Brighton,1.70,0,0,0.10,Nott'ham Forest,31463.00,The American Express Community Stadium,Darren England,2023
+12,Tue,18 October 2022,18,10,2022,20:15,Crystal Palace,1.20,2,1,0.80,Wolves,25125.00,Selhurst Park,David Coote,2023
+12,Wed,19 October 2022,19,10,2022,19:30,Bournemouth,1.00,0,1,1.00,Southampton,10405.00,Vitality Stadium,John Brooks,2023
+12,Wed,19 October 2022,19,10,2022,19:30,Brentford,1.30,0,0,0.90,Chelsea,17118.00,Brentford Community Stadium,Jarred Gillett,2023
+12,Wed,19 October 2022,19,10,2022,19:30,Liverpool,1.70,1,0,1.70,West Ham,52982.00,Anfield,Stuart Attwell,2023
+12,Wed,19 October 2022,19,10,2022,19:30,Newcastle Utd,1.50,1,0,0.20,Everton,52247.00,St James' Park,Tony Harrington,2023
+12,Wed,19 October 2022,19,10,2022,20:15,Manchester Utd,1.50,2,0,0.60,Tottenham,73677.00,Old Trafford,Simon Hooper,2023
+12,Thu,20 October 2022,20,10,2022,19:30,Fulham,2.10,3,0,1.20,Aston Villa,23508.00,Craven Cottage,Michael Oliver,2023
+12,Thu,20 October 2022,20,10,2022,20:15,Leicester City,0.80,2,0,1.30,Leeds United,30814.00,King Power Stadium,Peter Bankes,2023
+13,Sat,22 October 2022,22,10,2022,12:30,Nott'ham Forest,1.90,1,0,1.60,Liverpool,29245.00,The City Ground,Paul Tierney,2023
+13,Sat,22 October 2022,22,10,2022,15:00,Everton,1.40,3,0,0.90,Crystal Palace,38939.00,Goodison Park,Simon Hooper,2023
+13,Sat,22 October 2022,22,10,2022,15:00,Manchester City,1.60,3,1,0.50,Brighton,53223.00,Etihad Stadium,Craig Pawson,2023
+13,Sat,22 October 2022,22,10,2022,17:30,Chelsea,1.10,1,1,0.80,Manchester Utd,39503.00,Stamford Bridge,Stuart Attwell,2023
+13,Sun,23 October 2022,23,10,2022,14:00,Aston Villa,2.80,4,0,0.90,Brentford,41693.00,Villa Park,Darren England,2023
+13,Sun,23 October 2022,23,10,2022,14:00,Wolves,2.10,0,4,0.90,Leicester City,31425.00,Molineux Stadium,Michael Oliver,2023
+13,Sun,23 October 2022,23,10,2022,14:00,Leeds United,1.60,2,3,1.80,Fulham,36447.00,Elland Road,Anthony Taylor,2023
+13,Sun,23 October 2022,23,10,2022,14:00,Southampton,0.70,1,1,1.00,Arsenal,31145.00,St. Mary's Stadium,Robert Jones,2023
+13,Sun,23 October 2022,23,10,2022,16:30,Tottenham,1.60,1,2,1.20,Newcastle Utd,61726.00,Tottenham Hotspur Stadium,Jarred Gillett,2023
+13,Mon,24 October 2022,24,10,2022,20:00,West Ham,1.90,2,0,0.40,Bournemouth,62447.00,London Stadium,David Coote,2023
+14,Sat,29 October 2022,29,10,2022,12:30,Leicester City,0.70,0,1,1.00,Manchester City,32223.00,King Power Stadium,Robert Jones,2023
+14,Sat,29 October 2022,29,10,2022,15:00,Brentford,1.40,1,1,0.60,Wolves,17051.00,Brentford Community Stadium,Robert Madley,2023
+14,Sat,29 October 2022,29,10,2022,15:00,Crystal Palace,0.90,1,0,1.30,Southampton,25130.00,Selhurst Park,Michael Salisbury,2023
+14,Sat,29 October 2022,29,10,2022,15:00,Newcastle Utd,3.40,4,0,0.40,Aston Villa,52233.00,St James' Park,Paul Tierney,2023
+14,Sat,29 October 2022,29,10,2022,15:00,Brighton,2.40,4,1,1.40,Chelsea,31746.00,The American Express Community Stadium,Andy Madley,2023
+14,Sat,29 October 2022,29,10,2022,15:00,Bournemouth,0.50,2,3,2.00,Tottenham,10430.00,Vitality Stadium,Anthony Taylor,2023
+14,Sat,29 October 2022,29,10,2022,17:30,Fulham,1.90,0,0,0.90,Everton,23534.00,Craven Cottage,John Brooks,2023
+14,Sat,29 October 2022,29,10,2022,19:45,Liverpool,1.70,1,2,1.80,Leeds United,53274.00,Anfield,Michael Oliver,2023
+14,Sun,30 October 2022,30,10,2022,14:00,Arsenal,2.30,5,0,0.40,Nott'ham Forest,60263.00,Emirates Stadium,Simon Hooper,2023
+14,Sun,30 October 2022,30,10,2022,16:15,Manchester Utd,1.20,1,0,1.10,West Ham,73682.00,Old Trafford,Chris Kavanagh,2023
+15,Sat,05 November 2022,5,11,2022,15:00,Nott'ham Forest,1.50,2,2,1.50,Brentford,28869.00,The City Ground,Andre Marriner,2023
+15,Sat,05 November 2022,5,11,2022,15:00,Leeds United,2.20,4,3,1.50,Bournemouth,36304.00,Elland Road,Tony Harrington,2023
+15,Sat,05 November 2022,5,11,2022,15:00,Manchester City,2.10,2,1,1.00,Fulham,52395.00,Etihad Stadium,Darren England,2023
+15,Sat,05 November 2022,5,11,2022,15:00,Wolves,1.20,2,3,1.50,Brighton,30732.00,Molineux Stadium,Graham Scott,2023
+15,Sat,05 November 2022,5,11,2022,17:30,Everton,1.20,0,2,2.30,Leicester City,39206.00,Goodison Park,David Coote,2023
+15,Sun,06 November 2022,6,11,2022,12:00,Chelsea,0.30,0,1,2.10,Arsenal,40142.00,Stamford Bridge,Michael Oliver,2023
+15,Sun,06 November 2022,6,11,2022,14:00,West Ham,0.30,1,2,1.00,Crystal Palace,62451.00,London Stadium,Paul Tierney,2023
+15,Sun,06 November 2022,6,11,2022,14:00,Southampton,1.70,1,4,0.90,Newcastle Utd,30402.00,St. Mary's Stadium,Stuart Attwell,2023
+15,Sun,06 November 2022,6,11,2022,14:00,Aston Villa,0.60,3,1,0.50,Manchester Utd,42058.00,Villa Park,Anthony Taylor,2023
+15,Sun,06 November 2022,6,11,2022,16:30,Tottenham,1.20,1,2,1.20,Liverpool,62008.00,Tottenham Hotspur Stadium,Andy Madley,2023
+16,Sat,12 November 2022,12,11,2022,12:30,Manchester City,1.60,1,2,1.30,Brentford,52786.00,Etihad Stadium,Peter Bankes,2023
+16,Sat,12 November 2022,12,11,2022,15:00,Tottenham,1.80,4,3,1.10,Leeds United,61667.00,Tottenham Hotspur Stadium,Michael Salisbury,2023
+16,Sat,12 November 2022,12,11,2022,15:00,Liverpool,1.90,3,1,1.10,Southampton,53331.00,Anfield,Simon Hooper,2023
+16,Sat,12 November 2022,12,11,2022,15:00,Bournemouth,2.40,3,0,0.80,Everton,10382.00,Vitality Stadium,Craig Pawson,2023
+16,Sat,12 November 2022,12,11,2022,15:00,West Ham,1.40,0,2,1.80,Leicester City,62459.00,London Stadium,Jarred Gillett,2023
+16,Sat,12 November 2022,12,11,2022,15:00,Nott'ham Forest,1.10,1,0,1.20,Crystal Palace,29045.00,The City Ground,John Brooks,2023
+16,Sat,12 November 2022,12,11,2022,17:30,Newcastle Utd,1.00,1,0,0.30,Chelsea,52264.00,St James' Park,Robert Jones,2023
+16,Sat,12 November 2022,12,11,2022,19:45,Wolves,0.70,0,2,2.10,Arsenal,34624.00,Molineux Stadium,Stuart Attwell,2023
+16,Sun,13 November 2022,13,11,2022,14:00,Brighton,0.60,1,2,1.50,Aston Villa,31581.00,The American Express Community Stadium,Chris Kavanagh,2023
+16,Sun,13 November 2022,13,11,2022,16:30,Fulham,1.40,1,2,2.50,Manchester Utd,24246.00,Craven Cottage,Paul Tierney,2023
+17,Mon,26 December 2022,26,12,2022,12:30,Brentford,2.00,2,2,1.10,Tottenham,17137.00,Brentford Community Stadium,David Coote,2023
+17,Mon,26 December 2022,26,12,2022,15:00,Southampton,1.90,1,3,0.60,Brighton,31010.00,St. Mary's Stadium,Robert Jones,2023
+17,Mon,26 December 2022,26,12,2022,15:00,Leicester City,0.50,0,3,1.90,Newcastle Utd,32185.00,King Power Stadium,Jarred Gillett,2023
+17,Mon,26 December 2022,26,12,2022,15:00,Crystal Palace,0.40,0,3,2.50,Fulham,25176.00,Selhurst Park,Andy Madley,2023
+17,Mon,26 December 2022,26,12,2022,15:00,Everton,1.70,1,2,0.80,Wolves,39252.00,Goodison Park,Craig Pawson,2023
+17,Mon,26 December 2022,26,12,2022,17:30,Aston Villa,1.40,1,3,2.70,Liverpool,42085.00,Villa Park,Paul Tierney,2023
+17,Mon,26 December 2022,26,12,2022,20:00,Arsenal,2.10,3,1,1.00,West Ham,60125.00,Emirates Stadium,Michael Oliver,2023
+17,Tue,27 December 2022,27,12,2022,17:30,Chelsea,1.80,2,0,0.50,Bournemouth,40046.00,Stamford Bridge,Simon Hooper,2023
+17,Tue,27 December 2022,27,12,2022,20:00,Manchester Utd,2.40,3,0,0.70,Nott'ham Forest,73608.00,Old Trafford,Anthony Taylor,2023
+17,Wed,28 December 2022,28,12,2022,20:00,Leeds United,0.60,1,3,4.30,Manchester City,36889.00,Elland Road,Stuart Attwell,2023
+18,Fri,30 December 2022,30,12,2022,19:45,West Ham,1.30,0,2,1.60,Brentford,62467.00,London Stadium,Darren England,2023
+18,Fri,30 December 2022,30,12,2022,20:00,Liverpool,2.20,2,1,1.00,Leicester City,53343.00,Anfield,Craig Pawson,2023
+18,Sat,31 December 2022,31,12,2022,12:30,Wolves,0.70,0,1,2.00,Manchester Utd,31658.00,Molineux Stadium,Robert Jones,2023
+18,Sat,31 December 2022,31,12,2022,15:00,Newcastle Utd,2.20,0,0,0.40,Leeds United,52211.00,St James' Park,Simon Hooper,2023
+18,Sat,31 December 2022,31,12,2022,15:00,Fulham,1.50,2,1,0.80,Southampton,24344.00,Craven Cottage,Graham Scott,2023
+18,Sat,31 December 2022,31,12,2022,15:00,Manchester City,1.70,1,1,0.10,Everton,53444.00,Etihad Stadium,Andy Madley,2023
+18,Sat,31 December 2022,31,12,2022,15:00,Bournemouth,0.60,0,2,1.60,Crystal Palace,9972.00,Vitality Stadium,Andre Marriner,2023
+18,Sat,31 December 2022,31,12,2022,17:30,Brighton,1.20,2,4,2.90,Arsenal,31647.00,The American Express Community Stadium,Anthony Taylor,2023
+18,Sun,01 January 2023,1,1,2023,14:00,Tottenham,0.70,0,2,1.00,Aston Villa,61651.00,Tottenham Hotspur Stadium,John Brooks,2023
+18,Sun,01 January 2023,1,1,2023,16:30,Nott'ham Forest,1.40,1,1,0.90,Chelsea,29229.00,The City Ground,Peter Bankes,2023
+19,Mon,02 January 2023,2,1,2023,17:30,Brentford,1.60,3,1,0.90,Liverpool,17163.00,Brentford Community Stadium,Stuart Attwell,2023
+19,Tue,03 January 2023,3,1,2023,19:45,Leicester City,1.70,0,1,1.70,Fulham,30813.00,King Power Stadium,Darren Bond,2023
+19,Tue,03 January 2023,3,1,2023,19:45,Everton,1.30,1,4,2.20,Brighton,39103.00,Goodison Park,Andre Marriner,2023
+19,Tue,03 January 2023,3,1,2023,19:45,Arsenal,1.10,0,0,1.00,Newcastle Utd,60319.00,Emirates Stadium,Andy Madley,2023
+19,Tue,03 January 2023,3,1,2023,20:00,Manchester Utd,2.20,3,0,0.60,Bournemouth,73322.00,Old Trafford,Michael Salisbury,2023
+19,Wed,04 January 2023,4,1,2023,19:30,Southampton,0.50,0,1,1.40,Nott'ham Forest,30150.00,St. Mary's Stadium,Thomas Bramall,2023
+19,Wed,04 January 2023,4,1,2023,19:45,Leeds United,1.60,2,2,1.40,West Ham,36173.00,Elland Road,David Coote,2023
+19,Wed,04 January 2023,4,1,2023,20:00,Aston Villa,1.80,1,1,0.90,Wolves,39978.00,Villa Park,Jarred Gillett,2023
+19,Wed,04 January 2023,4,1,2023,20:00,Crystal Palace,0.80,0,4,1.40,Tottenham,25132.00,Selhurst Park,Michael Oliver,2023
+19,Thu,05 January 2023,5,1,2023,20:00,Chelsea,0.40,0,1,2.00,Manchester City,39998.00,Stamford Bridge,Paul Tierney,2023
+7,Thu,12 January 2023,12,1,2023,20:00,Fulham,1.00,2,1,2.10,Chelsea,24460.00,Craven Cottage,David Coote,2023
+20,Fri,13 January 2023,13,1,2023,20:00,Aston Villa,1.20,2,1,2.40,Leeds United,42008.00,Villa Park,Michael Oliver,2023
+20,Sat,14 January 2023,14,1,2023,12:30,Manchester Utd,1.70,2,1,0.60,Manchester City,75546.00,Old Trafford,Stuart Attwell,2023
+20,Sat,14 January 2023,14,1,2023,15:00,Everton,1.40,1,2,1.20,Southampton,39305.00,Goodison Park,John Brooks,2023
+20,Sat,14 January 2023,14,1,2023,15:00,Wolves,0.90,1,0,1.10,West Ham,31511.00,Molineux Stadium,Simon Hooper,2023
+20,Sat,14 January 2023,14,1,2023,15:00,Nott'ham Forest,2.40,2,0,1.00,Leicester City,29301.00,The City Ground,Paul Tierney,2023
+20,Sat,14 January 2023,14,1,2023,15:00,Brighton,1.90,3,0,1.00,Liverpool,31645.00,The American Express Community Stadium,Darren England,2023
+20,Sat,14 January 2023,14,1,2023,17:30,Brentford,1.40,2,0,0.60,Bournemouth,17031.00,Brentford Community Stadium,Jarred Gillett,2023
+20,Sun,15 January 2023,15,1,2023,14:00,Chelsea,1.50,1,0,0.70,Crystal Palace,40075.00,Stamford Bridge,Peter Bankes,2023
+20,Sun,15 January 2023,15,1,2023,14:00,Newcastle Utd,2.20,1,0,1.10,Fulham,52247.00,St James' Park,Robert Jones,2023
+20,Sun,15 January 2023,15,1,2023,16:30,Tottenham,1.60,0,2,1.80,Arsenal,61870.00,Tottenham Hotspur Stadium,Craig Pawson,2023
+7,Wed,18 January 2023,18,1,2023,20:00,Crystal Palace,0.50,1,1,2.10,Manchester Utd,23343.00,Selhurst Park,Robert Jones,2023
+7,Thu,19 January 2023,19,1,2023,20:00,Manchester City,2.30,4,2,0.80,Tottenham,53088.00,Etihad Stadium,Simon Hooper,2023
+21,Sat,21 January 2023,21,1,2023,12:30,Liverpool,1.40,0,0,1.60,Chelsea,53126.00,Anfield,Michael Oliver,2023
+21,Sat,21 January 2023,21,1,2023,15:00,Bournemouth,1.40,1,1,1.90,Nott'ham Forest,10248.00,Vitality Stadium,Andy Madley,2023
+21,Sat,21 January 2023,21,1,2023,15:00,Southampton,0.60,0,1,1.40,Aston Villa,30158.00,St. Mary's Stadium,Michael Salisbury,2023
+21,Sat,21 January 2023,21,1,2023,15:00,Leicester City,0.90,2,2,1.70,Brighton,32056.00,King Power Stadium,Thomas Bramall,2023
+21,Sat,21 January 2023,21,1,2023,15:00,West Ham,2.20,2,0,0.50,Everton,62470.00,London Stadium,Stuart Attwell,2023
+21,Sat,21 January 2023,21,1,2023,17:30,Crystal Palace,0.30,0,0,1.20,Newcastle Utd,25350.00,Selhurst Park,Craig Pawson,2023
+21,Sun,22 January 2023,22,1,2023,14:00,Manchester City,2.80,3,0,0.80,Wolves,53282.00,Etihad Stadium,David Coote,2023
+21,Sun,22 January 2023,22,1,2023,14:00,Leeds United,0.50,0,0,0.40,Brentford,36260.00,Elland Road,Peter Bankes,2023
+21,Sun,22 January 2023,22,1,2023,16:30,Arsenal,3.10,3,2,0.40,Manchester Utd,60325.00,Emirates Stadium,Anthony Taylor,2023
+21,Mon,23 January 2023,23,1,2023,20:00,Fulham,1.00,0,1,0.90,Tottenham,24190.00,Craven Cottage,Paul Tierney,2023
+22,Fri,03 February 2023,3,2,2023,20:00,Chelsea,1.30,0,0,0.60,Fulham,40041.00,Stamford Bridge,Stuart Attwell,2023
+22,Sat,04 February 2023,4,2,2023,12:30,Everton,1.70,1,0,0.90,Arsenal,39314.00,Goodison Park,David Coote,2023
+22,Sat,04 February 2023,4,2,2023,15:00,Aston Villa,1.70,2,4,2.60,Leicester City,42055.00,Villa Park,Darren England,2023
+22,Sat,04 February 2023,4,2,2023,15:00,Wolves,2.00,3,0,1.80,Liverpool,31664.00,Molineux Stadium,Paul Tierney,2023
+22,Sat,04 February 2023,4,2,2023,15:00,Manchester Utd,2.00,2,1,1.30,Crystal Palace,73420.00,Old Trafford,Andre Marriner,2023
+22,Sat,04 February 2023,4,2,2023,15:00,Brighton,2.20,1,0,1.10,Bournemouth,31600.00,The American Express Community Stadium,Craig Pawson,2023
+22,Sat,04 February 2023,4,2,2023,15:00,Brentford,2.00,3,0,0.70,Southampton,17051.00,Brentford Community Stadium,Darren Bond,2023
+22,Sat,04 February 2023,4,2,2023,17:30,Newcastle Utd,1.00,1,1,1.00,West Ham,52256.00,St James' Park,Peter Bankes,2023
+22,Sun,05 February 2023,5,2,2023,14:00,Nott'ham Forest,0.40,1,0,0.90,Leeds United,29363.00,The City Ground,Robert Jones,2023
+22,Sun,05 February 2023,5,2,2023,16:30,Tottenham,1.40,1,0,1.30,Manchester City,61747.00,Tottenham Hotspur Stadium,Andy Madley,2023
+8,Wed,08 February 2023,8,2,2023,20:00,Manchester Utd,2.00,2,2,0.60,Leeds United,73456.00,Old Trafford,Simon Hooper,2023
+23,Sat,11 February 2023,11,2,2023,12:30,West Ham,1.30,1,1,1.10,Chelsea,62471.00,London Stadium,Craig Pawson,2023
+23,Sat,11 February 2023,11,2,2023,15:00,Leicester City,1.70,4,1,1.30,Tottenham,32184.00,King Power Stadium,Michael Salisbury,2023
+23,Sat,11 February 2023,11,2,2023,15:00,Crystal Palace,1.10,1,1,2.50,Brighton,24827.00,Selhurst Park,Michael Oliver,2023
+23,Sat,11 February 2023,11,2,2023,15:00,Arsenal,1.60,1,1,2.00,Brentford,60254.00,Emirates Stadium,Peter Bankes,2023
+23,Sat,11 February 2023,11,2,2023,15:00,Southampton,1.10,1,2,0.80,Wolves,29751.00,St. Mary's Stadium,Jarred Gillett,2023
+23,Sat,11 February 2023,11,2,2023,15:00,Fulham,1.50,2,0,0.70,Nott'ham Forest,24244.00,Craven Cottage,Andy Madley,2023
+23,Sat,11 February 2023,11,2,2023,17:30,Bournemouth,1.50,1,1,1.30,Newcastle Utd,10419.00,Vitality Stadium,Stuart Attwell,2023
+23,Sun,12 February 2023,12,2,2023,14:00,Leeds United,1.80,0,2,1.10,Manchester Utd,36919.00,Elland Road,Paul Tierney,2023
+23,Sun,12 February 2023,12,2,2023,16:30,Manchester City,3.30,3,1,0.30,Aston Villa,53392.00,Etihad Stadium,Robert Jones,2023
+23,Mon,13 February 2023,13,2,2023,20:00,Liverpool,2.30,2,0,0.40,Everton,53027.00,Anfield,Simon Hooper,2023
+12,Wed,15 February 2023,15,2,2023,19:30,Arsenal,1.60,1,3,1.80,Manchester City,60276.00,Emirates Stadium,Anthony Taylor,2023
+24,Sat,18 February 2023,18,2,2023,12:30,Aston Villa,0.50,2,4,3.20,Arsenal,42066.00,Villa Park,Simon Hooper,2023
+24,Sat,18 February 2023,18,2,2023,15:00,Brighton,2.20,0,1,0.30,Fulham,31619.00,The American Express Community Stadium,Darren England,2023
+24,Sat,18 February 2023,18,2,2023,15:00,Nott'ham Forest,0.90,1,1,2.40,Manchester City,29365.00,The City Ground,Graham Scott,2023
+24,Sat,18 February 2023,18,2,2023,15:00,Chelsea,1.60,0,1,0.60,Southampton,40152.00,Stamford Bridge,David Coote,2023
+24,Sat,18 February 2023,18,2,2023,15:00,Everton,1.40,1,0,0.50,Leeds United,39232.00,Goodison Park,Andy Madley,2023
+24,Sat,18 February 2023,18,2,2023,15:00,Wolves,1.30,0,1,1.10,Bournemouth,31222.00,Molineux Stadium,Michael Salisbury,2023
+24,Sat,18 February 2023,18,2,2023,15:00,Brentford,0.90,1,1,1.10,Crystal Palace,17122.00,Brentford Community Stadium,Paul Tierney,2023
+24,Sat,18 February 2023,18,2,2023,17:30,Newcastle Utd,2.00,0,2,1.90,Liverpool,52758.00,St James' Park,Anthony Taylor,2023
+24,Sun,19 February 2023,19,2,2023,14:00,Manchester Utd,4.40,3,0,1.60,Leicester City,73578.00,Old Trafford,Stuart Attwell,2023
+24,Sun,19 February 2023,19,2,2023,16:30,Tottenham,1.50,2,0,0.50,West Ham,61476.00,Tottenham Hotspur Stadium,Michael Oliver,2023
+25,Fri,24 February 2023,24,2,2023,20:00,Fulham,0.50,1,1,0.80,Wolves,24399.00,Craven Cottage,Michael Oliver,2023
+25,Sat,25 February 2023,25,2,2023,15:00,Leicester City,0.00,0,1,0.70,Arsenal,32227.00,King Power Stadium,Craig Pawson,2023
+25,Sat,25 February 2023,25,2,2023,15:00,Everton,1.60,0,2,1.90,Aston Villa,39309.00,Goodison Park,Anthony Taylor,2023
+25,Sat,25 February 2023,25,2,2023,15:00,West Ham,2.70,4,0,0.40,Nott'ham Forest,62469.00,London Stadium,Jarred Gillett,2023
+25,Sat,25 February 2023,25,2,2023,15:00,Leeds United,0.90,1,0,0.40,Southampton,36641.00,Elland Road,Peter Bankes,2023
+25,Sat,25 February 2023,25,2,2023,17:30,Bournemouth,1.00,1,4,2.40,Manchester City,10481.00,Vitality Stadium,Paul Tierney,2023
+25,Sat,25 February 2023,25,2,2023,19:45,Crystal Palace,0.70,0,0,0.90,Liverpool,25842.00,Selhurst Park,Darren England,2023
+25,Sun,26 February 2023,26,2,2023,13:30,Tottenham,0.80,2,0,0.40,Chelsea,61613.00,Tottenham Hotspur Stadium,Stuart Attwell,2023
+7,Wed,01 March 2023,1,3,2023,19:45,Arsenal,2.40,4,0,1.20,Everton,60213.00,Emirates Stadium,Michael Oliver,2023
+7,Wed,01 March 2023,1,3,2023,20:00,Liverpool,2.60,2,0,0.80,Wolves,53259.00,Anfield,Paul Tierney,2023
+26,Sat,04 March 2023,4,3,2023,12:30,Manchester City,1.30,2,0,0.40,Newcastle Utd,53419.00,Etihad Stadium,Simon Hooper,2023
+26,Sat,04 March 2023,4,3,2023,15:00,Arsenal,2.10,3,2,1.30,Bournemouth,60222.00,Emirates Stadium,Chris Kavanagh,2023
+26,Sat,04 March 2023,4,3,2023,15:00,Aston Villa,1.20,1,0,0.20,Crystal Palace,41893.00,Villa Park,Craig Pawson,2023
+26,Sat,04 March 2023,4,3,2023,15:00,Chelsea,1.50,1,0,1.00,Leeds United,39905.00,Stamford Bridge,Michael Oliver,2023
+26,Sat,04 March 2023,4,3,2023,15:00,Brighton,3.50,4,0,0.30,West Ham,31523.00,The American Express Community Stadium,Stuart Attwell,2023
+26,Sat,04 March 2023,4,3,2023,15:00,Wolves,0.50,1,0,1.20,Tottenham,31585.00,Molineux Stadium,Tim Robinson,2023
+26,Sat,04 March 2023,4,3,2023,17:30,Southampton,1.40,1,0,1.90,Leicester City,30139.00,St. Mary's Stadium,Robert Jones,2023
+26,Sun,05 March 2023,5,3,2023,14:00,Nott'ham Forest,0.80,2,2,1.70,Everton,29353.00,The City Ground,John Brooks,2023
+26,Sun,05 March 2023,5,3,2023,16:30,Liverpool,2.80,7,0,0.80,Manchester Utd,53001.00,Anfield,Andy Madley,2023
+26,Mon,06 March 2023,6,3,2023,20:00,Brentford,2.10,3,2,1.40,Fulham,17025.00,Brentford Community Stadium,Anthony Taylor,2023
+27,Sat,11 March 2023,11,3,2023,12:30,Bournemouth,0.90,1,0,1.70,Liverpool,10536.00,Vitality Stadium,John Brooks,2023
+27,Sat,11 March 2023,11,3,2023,15:00,Leeds United,0.90,2,2,2.70,Brighton,36471.00,Elland Road,Paul Tierney,2023
+27,Sat,11 March 2023,11,3,2023,15:00,Everton,1.00,1,0,2.00,Brentford,39274.00,Goodison Park,Simon Hooper,2023
+27,Sat,11 March 2023,11,3,2023,15:00,Leicester City,2.40,1,3,1.60,Chelsea,32170.00,King Power Stadium,Andre Marriner,2023
+27,Sat,11 March 2023,11,3,2023,15:00,Tottenham,2.00,3,1,1.50,Nott'ham Forest,61460.00,Tottenham Hotspur Stadium,Craig Pawson,2023
+27,Sat,11 March 2023,11,3,2023,17:30,Crystal Palace,0.20,0,1,2.10,Manchester City,25844.00,Selhurst Park,Robert Jones,2023
+27,Sun,12 March 2023,12,3,2023,14:00,Manchester Utd,0.80,0,0,1.00,Southampton,73439.00,Old Trafford,Anthony Taylor,2023
+27,Sun,12 March 2023,12,3,2023,14:00,Fulham,0.80,0,3,2.30,Arsenal,24426.00,Craven Cottage,David Coote,2023
+27,Sun,12 March 2023,12,3,2023,14:00,West Ham,2.10,1,1,1.50,Aston Villa,62472.00,London Stadium,Chris Kavanagh,2023
+27,Sun,12 March 2023,12,3,2023,16:30,Newcastle Utd,1.80,2,1,1.10,Wolves,52240.00,St James' Park,Andy Madley,2023
+7,Wed,15 March 2023,15,3,2023,19:30,Southampton,0.50,0,2,1.90,Brentford,30438.00,St. Mary's Stadium,Michael Salisbury,2023
+8,Wed,15 March 2023,15,3,2023,19:30,Brighton,0.60,1,0,1.10,Crystal Palace,30933.00,The American Express Community Stadium,Peter Bankes,2023
+28,Fri,17 March 2023,17,3,2023,20:00,Nott'ham Forest,0.40,1,2,2.40,Newcastle Utd,29362.00,The City Ground,Paul Tierney,2023
+28,Sat,18 March 2023,18,3,2023,15:00,Wolves,2.70,2,4,1.60,Leeds United,31570.00,Molineux Stadium,Michael Salisbury,2023
+28,Sat,18 March 2023,18,3,2023,15:00,Brentford,0.60,1,1,1.30,Leicester City,17006.00,Brentford Community Stadium,Darren Bond,2023
+28,Sat,18 March 2023,18,3,2023,15:00,Aston Villa,3.50,3,0,1.30,Bournemouth,41021.00,Villa Park,Robert Jones,2023
+28,Sat,18 March 2023,18,3,2023,15:00,Southampton,2.40,3,3,2.30,Tottenham,30157.00,St. Mary's Stadium,Simon Hooper,2023
+28,Sat,18 March 2023,18,3,2023,17:30,Chelsea,2.30,2,2,1.20,Everton,40025.00,Stamford Bridge,Darren England,2023
+28,Sun,19 March 2023,19,3,2023,14:00,Arsenal,1.60,4,1,0.80,Crystal Palace,60247.00,Emirates Stadium,Stuart Attwell,2023
+29,Sat,01 April 2023,1,4,2023,12:30,Manchester City,2.90,4,1,0.30,Liverpool,52877.00,Etihad Stadium,Simon Hooper,2023
+29,Sat,01 April 2023,1,4,2023,15:00,Arsenal,3.80,4,1,0.70,Leeds United,60283.00,Emirates Stadium,Darren England,2023
+29,Sat,01 April 2023,1,4,2023,15:00,Nott'ham Forest,1.30,1,1,0.50,Wolves,29368.00,The City Ground,Chris Kavanagh,2023
+29,Sat,01 April 2023,1,4,2023,15:00,Brighton,4.20,3,3,1.60,Brentford,31493.00,The American Express Community Stadium,Michael Oliver,2023
+29,Sat,01 April 2023,1,4,2023,15:00,Crystal Palace,2.30,2,1,0.20,Leicester City,25147.00,Selhurst Park,Tim Robinson,2023
+29,Sat,01 April 2023,1,4,2023,15:00,Bournemouth,2.60,2,1,0.80,Fulham,10305.00,Vitality Stadium,Peter Bankes,2023
+29,Sat,01 April 2023,1,4,2023,17:30,Chelsea,2.10,0,2,0.90,Aston Villa,40082.00,Stamford Bridge,Andy Madley,2023
+29,Sun,02 April 2023,2,4,2023,14:00,West Ham,1.40,1,0,0.30,Southampton,62498.00,London Stadium,Paul Tierney,2023
+29,Sun,02 April 2023,2,4,2023,16:30,Newcastle Utd,3.70,2,0,0.40,Manchester Utd,52268.00,St James' Park,Stuart Attwell,2023
+29,Mon,03 April 2023,3,4,2023,20:00,Everton,0.90,1,1,1.40,Tottenham,39294.00,Goodison Park,David Coote,2023
+7,Tue,04 April 2023,4,4,2023,19:45,Leeds United,1.80,2,1,0.80,Nott'ham Forest,36740.00,Elland Road,Robert Jones,2023
+7,Tue,04 April 2023,4,4,2023,19:45,Bournemouth,1.70,0,2,2.70,Brighton,10266.00,Vitality Stadium,Darren Bond,2023
+7,Tue,04 April 2023,4,4,2023,19:45,Leicester City,0.50,1,2,1.00,Aston Villa,32087.00,King Power Stadium,Graham Scott,2023
+8,Tue,04 April 2023,4,4,2023,20:00,Chelsea,2.20,0,0,0.30,Liverpool,40093.00,Stamford Bridge,Anthony Taylor,2023
+7,Wed,05 April 2023,5,4,2023,20:00,West Ham,1.00,1,5,3.30,Newcastle Utd,62481.00,London Stadium,Craig Pawson,2023
+25,Wed,05 April 2023,5,4,2023,20:00,Manchester Utd,1.20,1,0,0.70,Brentford,73309.00,Old Trafford,John Brooks,2023
+30,Sat,08 April 2023,8,4,2023,12:30,Manchester Utd,3.40,2,0,1.00,Everton,73509.00,Old Trafford,Michael Oliver,2023
+30,Sat,08 April 2023,8,4,2023,15:00,Fulham,0.70,0,1,1.10,West Ham,24491.00,Craven Cottage,Jarred Gillett,2023
+30,Sat,08 April 2023,8,4,2023,15:00,Aston Villa,1.30,2,0,0.20,Nott'ham Forest,42076.00,Villa Park,Anthony Taylor,2023
+30,Sat,08 April 2023,8,4,2023,15:00,Leicester City,0.60,0,1,1.90,Bournemouth,32094.00,King Power Stadium,David Coote,2023
+30,Sat,08 April 2023,8,4,2023,15:00,Brentford,2.60,1,2,1.30,Newcastle Utd,17107.00,Brentford Community Stadium,Chris Kavanagh,2023
+30,Sat,08 April 2023,8,4,2023,15:00,Wolves,0.60,1,0,1.10,Chelsea,31614.00,Molineux Stadium,Peter Bankes,2023
+30,Sat,08 April 2023,8,4,2023,15:00,Tottenham,0.80,2,1,1.40,Brighton,61405.00,Tottenham Hotspur Stadium,Stuart Attwell,2023
+30,Sat,08 April 2023,8,4,2023,17:30,Southampton,0.40,1,4,2.90,Manchester City,30963.00,St. Mary's Stadium,Robert Jones,2023
+30,Sun,09 April 2023,9,4,2023,14:00,Leeds United,0.90,1,5,3.00,Crystal Palace,36427.00,Elland Road,Simon Hooper,2023
+30,Sun,09 April 2023,9,4,2023,16:30,Liverpool,3.90,2,2,1.40,Arsenal,53267.00,Anfield,Paul Tierney,2023
+31,Sat,15 April 2023,15,4,2023,12:30,Aston Villa,1.90,3,0,0.50,Newcastle Utd,42055.00,Villa Park,John Brooks,2023
+31,Sat,15 April 2023,15,4,2023,15:00,Chelsea,0.50,1,2,2.90,Brighton,40126.00,Stamford Bridge,Robert Jones,2023
+31,Sat,15 April 2023,15,4,2023,15:00,Southampton,0.80,0,2,0.90,Crystal Palace,30309.00,St. Mary's Stadium,Michael Oliver,2023
+31,Sat,15 April 2023,15,4,2023,15:00,Wolves,0.80,2,0,1.10,Brentford,30769.00,Molineux Stadium,Paul Tierney,2023
+31,Sat,15 April 2023,15,4,2023,15:00,Tottenham,2.20,2,3,1.30,Bournemouth,61369.00,Tottenham Hotspur Stadium,Andy Madley,2023
+31,Sat,15 April 2023,15,4,2023,15:00,Everton,1.40,1,3,1.80,Fulham,39241.00,Goodison Park,Anthony Taylor,2023
+31,Sat,15 April 2023,15,4,2023,17:30,Manchester City,1.60,3,1,2.30,Leicester City,53329.00,Etihad Stadium,Darren England,2023
+31,Sun,16 April 2023,16,4,2023,14:00,West Ham,1.80,2,2,2.70,Arsenal,62481.00,London Stadium,David Coote,2023
+31,Sun,16 April 2023,16,4,2023,16:30,Nott'ham Forest,0.70,0,2,3.50,Manchester Utd,29435.00,The City Ground,Simon Hooper,2023
+31,Mon,17 April 2023,17,4,2023,20:00,Leeds United,1.40,1,6,2.70,Liverpool,36657.00,Elland Road,Craig Pawson,2023
+32,Fri,21 April 2023,21,4,2023,20:00,Arsenal,2.40,3,3,1.30,Southampton,60175.00,Emirates Stadium,Simon Hooper,2023
+32,Sat,22 April 2023,22,4,2023,12:30,Fulham,1.70,2,1,0.80,Leeds United,24356.00,Craven Cottage,Peter Bankes,2023
+32,Sat,22 April 2023,22,4,2023,15:00,Crystal Palace,0.50,0,0,0.40,Everton,25202.00,Selhurst Park,John Brooks,2023
+32,Sat,22 April 2023,22,4,2023,15:00,Brentford,2.70,1,1,1.50,Aston Villa,17098.00,Brentford Community Stadium,Michael Salisbury,2023
+32,Sat,22 April 2023,22,4,2023,15:00,Liverpool,2.80,3,2,0.90,Nott'ham Forest,53254.00,Anfield,Michael Oliver,2023
+32,Sat,22 April 2023,22,4,2023,15:00,Leicester City,2.40,2,1,0.90,Wolves,32053.00,King Power Stadium,Andy Madley,2023
+32,Sun,23 April 2023,23,4,2023,14:00,Bournemouth,1.50,0,4,2.40,West Ham,10465.00,Vitality Stadium,Anthony Taylor,2023
+32,Sun,23 April 2023,23,4,2023,14:00,Newcastle Utd,3.70,6,1,1.00,Tottenham,52252.00,St James' Park,David Coote,2023
+33,Tue,25 April 2023,25,4,2023,19:30,Wolves,1.40,2,0,0.80,Crystal Palace,30294.00,Molineux Stadium,Robert Jones,2023
+33,Tue,25 April 2023,25,4,2023,19:45,Aston Villa,1.00,1,0,0.10,Fulham,41046.00,Villa Park,Thomas Bramall,2023
+33,Tue,25 April 2023,25,4,2023,20:00,Leeds United,1.50,1,1,2.10,Leicester City,36666.00,Elland Road,Paul Tierney,2023
+33,Wed,26 April 2023,26,4,2023,19:30,Nott'ham Forest,2.40,3,1,2.30,Brighton,28808.00,The City Ground,Jarred Gillett,2023
+33,Wed,26 April 2023,26,4,2023,19:45,Chelsea,1.30,0,2,1.10,Brentford,39929.00,Stamford Bridge,Andy Madley,2023
+33,Wed,26 April 2023,26,4,2023,19:45,West Ham,0.80,1,2,1.90,Liverpool,62473.00,London Stadium,Chris Kavanagh,2023
+33,Wed,26 April 2023,26,4,2023,20:00,Manchester City,2.50,4,1,0.50,Arsenal,53482.00,Etihad Stadium,Michael Oliver,2023
+33,Thu,27 April 2023,27,4,2023,19:45,Everton,0.90,1,4,2.40,Newcastle Utd,39248.00,Goodison Park,Andre Marriner,2023
+33,Thu,27 April 2023,27,4,2023,19:45,Southampton,0.50,0,1,0.90,Bournemouth,30414.00,St. Mary's Stadium,Darren England,2023
+33,Thu,27 April 2023,27,4,2023,20:15,Tottenham,2.50,2,2,2.00,Manchester Utd,61586.00,Tottenham Hotspur Stadium,Anthony Taylor,2023
+34,Sat,29 April 2023,29,4,2023,12:30,Crystal Palace,2.10,4,3,1.70,West Ham,25148.00,Selhurst Park,Craig Pawson,2023
+34,Sat,29 April 2023,29,4,2023,15:00,Brighton,3.30,6,0,0.80,Wolves,31584.00,The American Express Community Stadium,David Coote,2023
+34,Sat,29 April 2023,29,4,2023,15:00,Brentford,1.60,2,1,0.70,Nott'ham Forest,17080.00,Brentford Community Stadium,Peter Bankes,2023
+34,Sun,30 April 2023,30,4,2023,14:00,Manchester Utd,1.20,1,0,0.60,Aston Villa,73592.00,Old Trafford,Jarred Gillett,2023
+34,Sun,30 April 2023,30,4,2023,14:00,Bournemouth,1.90,4,1,1.60,Leeds United,10434.00,Vitality Stadium,Chris Kavanagh,2023
+34,Sun,30 April 2023,30,4,2023,14:00,Newcastle Utd,4.30,3,1,0.80,Southampton,52234.00,St James' Park,Anthony Taylor,2023
+34,Sun,30 April 2023,30,4,2023,14:00,Fulham,0.20,1,2,2.50,Manchester City,24498.00,Craven Cottage,Simon Hooper,2023
+34,Sun,30 April 2023,30,4,2023,16:30,Liverpool,2.20,4,3,2.00,Tottenham,53275.00,Anfield,Paul Tierney,2023
+34,Mon,01 May 2023,1,5,2023,20:00,Leicester City,3.40,2,2,3.10,Everton,32173.00,King Power Stadium,Michael Oliver,2023
+34,Tue,02 May 2023,2,5,2023,20:00,Arsenal,1.70,3,1,0.80,Chelsea,60144.00,Emirates Stadium,Robert Jones,2023
+28,Wed,03 May 2023,3,5,2023,20:00,Liverpool,1.80,1,0,0.90,Fulham,52602.00,Anfield,Stuart Attwell,2023
+28,Wed,03 May 2023,3,5,2023,20:00,Manchester City,2.30,3,0,0.40,West Ham,53305.00,Etihad Stadium,John Brooks,2023
+28,Thu,04 May 2023,4,5,2023,20:00,Brighton,2.30,1,0,1.40,Manchester Utd,31577.00,The American Express Community Stadium,Andre Marriner,2023
+35,Sat,06 May 2023,6,5,2023,15:00,Tottenham,0.90,1,0,0.40,Crystal Palace,61093.00,Tottenham Hotspur Stadium,Darren England,2023
+35,Sat,06 May 2023,6,5,2023,15:00,Wolves,0.80,1,0,1.50,Aston Villa,31641.00,Molineux Stadium,Stuart Attwell,2023
+35,Sat,06 May 2023,6,5,2023,15:00,Bournemouth,1.20,1,3,1.30,Chelsea,10357.00,Vitality Stadium,John Brooks,2023
+35,Sat,06 May 2023,6,5,2023,15:00,Manchester City,2.60,2,1,0.20,Leeds United,53406.00,Etihad Stadium,Andy Madley,2023
+35,Sat,06 May 2023,6,5,2023,17:30,Liverpool,2.20,1,0,0.20,Brentford,52838.00,Anfield,Anthony Taylor,2023
+35,Sun,07 May 2023,7,5,2023,16:30,Newcastle Utd,1.30,0,2,1.30,Arsenal,50267.00,St James' Park,Chris Kavanagh,2023
+35,Sun,07 May 2023,7,5,2023,19:00,West Ham,1.30,1,0,1.20,Manchester Utd,62477.00,London Stadium,Peter Bankes,2023
+35,Mon,08 May 2023,8,5,2023,15:00,Fulham,1.60,5,3,2.80,Leicester City,24442.00,Craven Cottage,Robert Jones,2023
+35,Mon,08 May 2023,8,5,2023,17:30,Brighton,3.20,1,5,2.30,Everton,31567.00,The American Express Community Stadium,Simon Hooper,2023
+35,Mon,08 May 2023,8,5,2023,20:00,Nott'ham Forest,1.80,4,3,3.10,Southampton,29154.00,The City Ground,Michael Oliver,2023
+36,Sat,13 May 2023,13,5,2023,12:30,Leeds United,2.00,2,2,2.30,Newcastle Utd,36955.00,Elland Road,Simon Hooper,2023
+36,Sat,13 May 2023,13,5,2023,15:00,Aston Villa,1.20,2,1,1.40,Tottenham,42164.00,Villa Park,Peter Bankes,2023
+36,Sat,13 May 2023,13,5,2023,15:00,Chelsea,1.20,2,2,1.30,Nott'ham Forest,40030.00,Stamford Bridge,Paul Tierney,2023
+36,Sat,13 May 2023,13,5,2023,15:00,Crystal Palace,1.50,2,0,0.30,Bournemouth,25034.00,Selhurst Park,Michael Salisbury,2023
+36,Sat,13 May 2023,13,5,2023,15:00,Southampton,0.40,0,2,1.40,Fulham,28978.00,St. Mary's Stadium,Thomas Bramall,2023
+36,Sat,13 May 2023,13,5,2023,15:00,Manchester Utd,3.20,2,0,0.30,Wolves,73570.00,Old Trafford,John Brooks,2023
+36,Sun,14 May 2023,14,5,2023,14:00,Everton,1.60,0,3,0.80,Manchester City,39376.00,Goodison Park,Anthony Taylor,2023
+36,Sun,14 May 2023,14,5,2023,14:00,Brentford,3.40,2,0,0.20,West Ham,17075.00,Brentford Community Stadium,Michael Oliver,2023
+36,Sun,14 May 2023,14,5,2023,16:30,Arsenal,0.90,0,3,1.70,Brighton,60139.00,Emirates Stadium,Andy Madley,2023
+36,Mon,15 May 2023,15,5,2023,20:00,Leicester City,0.40,0,3,2.20,Liverpool,32225.00,King Power Stadium,Craig Pawson,2023
+25,Thu,18 May 2023,18,5,2023,19:30,Newcastle Utd,3.60,4,1,0.50,Brighton,52122.00,St James' Park,Robert Jones,2023
+37,Sat,20 May 2023,20,5,2023,12:30,Tottenham,1.70,1,3,1.20,Brentford,61514.00,Tottenham Hotspur Stadium,Jarred Gillett,2023
+37,Sat,20 May 2023,20,5,2023,15:00,Liverpool,0.70,1,1,1.30,Aston Villa,53306.00,Anfield,John Brooks,2023
+37,Sat,20 May 2023,20,5,2023,15:00,Fulham,1.70,2,2,1.60,Crystal Palace,24356.00,Craven Cottage,Joshua Smith,2023
+37,Sat,20 May 2023,20,5,2023,15:00,Bournemouth,1.00,0,1,1.40,Manchester Utd,10240.00,Vitality Stadium,Chris Kavanagh,2023
+37,Sat,20 May 2023,20,5,2023,15:00,Wolves,1.60,1,1,2.00,Everton,31684.00,Molineux Stadium,David Coote,2023
+37,Sat,20 May 2023,20,5,2023,17:30,Nott'ham Forest,0.60,1,0,0.60,Arsenal,29514.00,The City Ground,Anthony Taylor,2023
+37,Sun,21 May 2023,21,5,2023,13:30,West Ham,2.10,3,1,0.90,Leeds United,62478.00,London Stadium,Peter Bankes,2023
+37,Sun,21 May 2023,21,5,2023,14:00,Brighton,2.50,3,1,0.60,Southampton,31507.00,The American Express Community Stadium,Paul Tierney,2023
+37,Sun,21 May 2023,21,5,2023,16:00,Manchester City,1.20,1,0,1.20,Chelsea,53490.00,Etihad Stadium,Michael Oliver,2023
+37,Mon,22 May 2023,22,5,2023,20:00,Newcastle Utd,2.10,0,0,0.10,Leicester City,52152.00,St James' Park,Andre Marriner,2023
+32,Wed,24 May 2023,24,5,2023,20:00,Brighton,2.20,1,1,1.80,Manchester City,31388.00,The American Express Community Stadium,Simon Hooper,2023
+32,Thu,25 May 2023,25,5,2023,20:00,Manchester Utd,5.20,4,1,1.90,Chelsea,73561.00,Old Trafford,Stuart Attwell,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Crystal Palace,1.40,1,1,0.50,Nott'ham Forest,25198.00,Selhurst Park,Thomas Bramall,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Chelsea,2.20,1,1,1.70,Newcastle Utd,40130.00,Stamford Bridge,Jarred Gillett,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Manchester Utd,2.90,2,1,1.80,Fulham,73465.00,Old Trafford,Robert Jones,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Arsenal,2.80,5,0,0.50,Wolves,60095.00,Emirates Stadium,Andre Marriner,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Southampton,1.80,4,4,4.00,Liverpool,31129.00,St. Mary's Stadium,Darren England,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Everton,1.00,1,0,0.50,Bournemouth,39201.00,Goodison Park,Stuart Attwell,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Leicester City,1.40,2,1,1.40,West Ham,32183.00,King Power Stadium,Simon Hooper,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Aston Villa,2.80,2,1,1.40,Brighton,31581.00,Villa Park,David Coote,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Leeds United,1.50,1,4,2.20,Tottenham,36871.00,Elland Road,Anthony Taylor,2023
+38,Sun,28 May 2023,28,5,2023,16:30,Brentford,1.30,1,0,1.60,Manchester City,17120.00,Brentford Community Stadium,John Brooks,2023
